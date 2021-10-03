@@ -1,0 +1,2612 @@
+clrmamepro (
+	name "Game Saves - Playstation (PSX Format)"
+	description "Game Saves - Playstation (PSX Format)"
+	category "Standard DatFile"
+	version 20050104
+	author sairuk
+	comment "Playstation Single File Game Saves In PSX Format"
+)
+
+game (
+	name "2Xtreme (SCUS-94508)"
+	description "2Xtreme (SCUS-94508)"
+	rom ( name "2Xtreme (SCUS-94508) (All Characters, All Equipment).psx" size 8246 crc 0x4cae51dd sha1 c488a9e51ec99ae849818194ca0479b3a5113419 )
+)
+
+game (
+	name "3Xtreme (SCUS-94231)"
+	description "3Xtreme (SCUS-94231)"
+	rom ( name "3Xtreme (SCUS-94231) (All Characters And Equipment Unlocked).psx" size 8246 crc 0xb05a7bf5 sha1 45541f006c18b1876029d33ed28e8e449762c4a7 )
+)
+
+game (
+	name "A Bugs Life (SCUS-94288)"
+	description "A Bugs Life (SCUS-94288)"
+	rom ( name "A Bugs Life (SCUS-94288) (All Levels Unlocked With All Grain Collected, Flik And Opponents Defeated, All Fmv Sequences Including Bonus Selections Unlocked).psx" size 8246 crc 0xe7643bd9 sha1 dfaf9b9e64fde19f8e2ccb1a05697013c112e360 )
+	rom ( name "A Bugs Life (SCUS-94288) (All Levels Unlocked).psx" size 8246 crc 0x428fdd47 sha1 b90555b03faf3c0fa67bde20d9db36f0e26b76dd )
+)
+
+game (
+	name "Ace Combat 2 (SLUS-00404)"
+	description "Ace Combat 2 (SLUS-00404)"
+	rom ( name "Ace Combat 2 (SLUS-00404) (All Planes And Levels Unlocked).psx" size 8246 crc 0x472333eb sha1 4d5658121ccff535ca4ab9a2fb219d22fa66538a )
+	rom ( name "Ace Combat 2 (SLUS-00404) (All Planes, All Levels).psx" size 8246 crc 0xf24ca28f sha1 1476e8fb9d8e280fa1915d4a75088ea701763c6d )
+)
+
+game (
+	name "Afraid Gear (SLPS-00995)"
+	description "Afraid Gear (SLPS-00995)"
+	rom ( name "Afraid Gear (SLPS-00995) (Year 1 Completed).psx" size 16438 crc 0xed97515b sha1 5d0581c31162fb02468dd9103a82a147399a3383 )
+)
+
+game (
+	name "Agile Warrior (ARRIOR01)"
+	description "Agile Warrior (ARRIOR01)"
+	rom ( name "Agile Warrior (ARRIOR01) (All Levels Open With Max Special Weapons).psx" size 8246 crc 0x8e41ed23 sha1 1689014b1ac804834532b95dd6d3efb91ebdf693 )
+)
+
+game (
+	name "Air Combat (SLUS-00001)"
+	description "Air Combat (SLUS-00001)"
+	rom ( name "Air Combat (SLUS-00001) (All Planes Unlocked).psx" size 8246 crc 0x44666ad4 sha1 80678b00252ef339c244fcb0ba4130fcd4a581ee )
+	rom ( name "Air Combat (SLUS-00001) (All Planes).psx" size 8246 crc 0x863fbfb6 sha1 1c0d6ad1256aedba03e19a18bb4e2e52f2e48fd9 )
+)
+
+game (
+	name "Akuji The Heartless (SLUS-00715)"
+	description "Akuji The Heartless (SLUS-00715)"
+	rom ( name "Akuji The Heartless (SLUS-00715) (All Levels Unlocked).psx" size 8246 crc 0x1fb7d3e5 sha1 9ac8fc89547d1c1cb1624e44b2ef7ffa580c1277 )
+)
+
+game (
+	name "Akumajou Dracula X - Gekka No Yasoukyoku (SLPM-86023)"
+	description "Akumajou Dracula X - Gekka No Yasoukyoku (SLPM-86023)"
+	rom ( name "Akumajou Dracula X - Gekka No Yasoukyoku (SLPM-86023) (Play As Richter From First Save Point).psx" size 8246 crc 0x1b1d438c sha1 72be74871edc7703124da404a11388c3b62788ae )
+)
+
+game (
+	name "Alundra (SLUS-00553)"
+	description "Alundra (SLUS-00553)"
+	rom ( name "Alundra (SLUS-00553) (Ready To Face Melzas With All Items, Spells, And Armor)..psx" size 8246 crc 0x3c6328c5 sha1 dbc1d0c8789ee8d1220f28a5534262244eb190a2 )
+)
+
+game (
+	name "Ape Escape (SCUS-94423)"
+	description "Ape Escape (SCUS-94423)"
+	rom ( name "Ape Escape (SCUS-94423) (All Apes Captured, Levels Completed, Gadgets& Mini-Games).psx" size 8246 crc 0x1280ceff sha1 5d3b3cd895f3368d90aba2e5b18b0991a576ed8a )
+	rom ( name "Ape Escape (SCUS-94423) (All Gadgets, Mini-Games, And Levels Unlocked).psx" size 8246 crc 0xa40151fb sha1 673831ece50dc46b325c487dc4e440288126fedc )
+)
+
+game (
+	name "Apocalypse (SLES-00835)"
+	description "Apocalypse (SLES-00835)"
+	rom ( name "Apocalypse (SLES-00835) (Levels 1-9 Unlocked; All Weapons).psx" size 8246 crc 0x834b13f6 sha1 fb9fd86d610cce7ce908f57dba9542ae15d37f6e )
+	rom ( name "Apocalypse (SLES-00835) (Levels 10-11 Unlocked; All Weapons).psx" size 8246 crc 0xef57f423 sha1 26fbb86cf6f1d36fc099bb40964356e82d91a331 )
+)
+
+game (
+	name "Apocalypse (SLUS-00373)"
+	description "Apocalypse (SLUS-00373)"
+	rom ( name "Apocalypse (SLUS-00373) (Four Horsemen Of The Apocolypse Selectable Under 'Load Data' Selection).psx" size 8246 crc 0xa3820422 sha1 3e12782706489ee82a5907df387501610728053c )
+)
+
+game (
+	name "Arc The Lad 2 (SCPS-10026)"
+	description "Arc The Lad 2 (SCPS-10026)"
+	rom ( name "Arc The Lad 2 (SCPS-10026) (Start At End Of Game).psx" size 16438 crc 0x01836b09 sha1 3f72f0d53ec0737d36c0b1a72efa17be39911982 )
+)
+
+game (
+	name "Armored Core (SCUS-94182)"
+	description "Armored Core (SCUS-94182)"
+	rom ( name "Armored Core (SCUS-94182) (All Parts, Missions, And 'Human Plus' Features).psx" size 8246 crc 0xaa9faafc sha1 9feea148afa778a4d769d259b39809a416db76b6 )
+)
+
+game (
+	name "Armored Core - Project Phantasma (SLUS-00670)"
+	description "Armored Core - Project Phantasma (SLUS-00670)"
+	rom ( name "Armored Core - Project Phantasma (SLUS-00670) (All Features Missions, Weapons).psx" size 8246 crc 0xb8ed8fa9 sha1 ccace4413c37b13f7c2c91d95f452451084c5375 )
+	rom ( name "Armored Core - Project Phantasma (SLUS-00670) (All Parts, Weapons, Missions, And 'Human Plus' Features).psx" size 8246 crc 0x140ac23e sha1 b691fa36d06dcf8233f35b28698d32d32f02f8eb )
+	rom ( name "Armored Core - Project Phantasma (SLUS-00670) (Emblems).psx" size 16438 crc 0xe873730a sha1 dc44fd669a941a25611f9fe1a1de156214c02278 )
+)
+
+game (
+	name "Army Men 3D (SLUS-00491)"
+	description "Army Men 3D (SLUS-00491)"
+	rom ( name "Army Men 3D (SLUS-00491) (All Levels Unlocked).psx" size 8246 crc 0xdc4b3d3f sha1 6da1217c76f778d8d3e26489ab60aa165f4ffed0 )
+)
+
+game (
+	name "Asteroids (SLUS-00773)"
+	description "Asteroids (SLUS-00773)"
+	rom ( name "Asteroids (SLUS-00773) (Game Completed On Hardcore Difficulty Setting; Excalibur Ship And Classic Mode Unlocked).psx" size 8246 crc 0x02d89fbd sha1 ef33062995226effbc7ba6c082a3036336a5009a )
+)
+
+game (
+	name "Azure Dreams (SLUS-00614)"
+	description "Azure Dreams (SLUS-00614)"
+	rom ( name "Azure Dreams (SLUS-00614) (Begin Game With Over $100,000,000 And Character Level 60+).psx" size 24630 crc 0xb411d8e1 sha1 c4d377865a0d618c2513ae3f07086e06869b01d9 )
+)
+
+game (
+	name "Ballistic (SLUS-00966)"
+	description "Ballistic (SLUS-00966)"
+	rom ( name "Ballistic (SLUS-00966) (All Levels Unlocked).psx" size 8246 crc 0xb1f63f8a sha1 af068905e459e0e41d9e7cb2797266eaf02c00c5 )
+)
+
+game (
+	name "Bass Rise (SLUS-00905)"
+	description "Bass Rise (SLUS-00905)"
+	rom ( name "Bass Rise (SLUS-00905) (8 Areas Open, 3 Black Shad Lures, 2 Monsters Caught).psx" size 8246 crc 0x1517b267 sha1 5e6dcb414dc6a2bb627eb504de4028de1a43b79b )
+)
+
+game (
+	name "Battle Arena Toshinden 3 (SLPS-00650)"
+	description "Battle Arena Toshinden 3 (SLPS-00650)"
+	rom ( name "Battle Arena Toshinden 3 (SLPS-00650) (All Characters Unlocked).psx" size 8246 crc 0xaa3734ac sha1 33b883aee3d6916b2cec2078c605e28e03d311fa )
+)
+
+game (
+	name "Battle Arena Toshinden 3 (SLUS-00653)"
+	description "Battle Arena Toshinden 3 (SLUS-00653)"
+	rom ( name "Battle Arena Toshinden 3 (SLUS-00653) (All Characters, Costumes, And Options Unlocked).psx" size 8246 crc 0xc2902c82 sha1 9d213a2eae31b0fef203fd0bdca46bf2c5925feb )
+)
+
+game (
+	name "Beast Wars Transformers (SLUS-00508)"
+	description "Beast Wars Transformers (SLUS-00508)"
+	rom ( name "Beast Wars Transformers (SLUS-00508) (All Levels Completed With No Robots Lost).psx" size 8246 crc 0x242db115 sha1 a75573271e7bfc4e2372690d86b0a0a3fd3991a5 )
+)
+
+game (
+	name "Beyond The Beyond (SCUS-94702)"
+	description "Beyond The Beyond (SCUS-94702)"
+	rom ( name "Beyond The Beyond (SCUS-94702) (Start At End Of Game).psx" size 8246 crc 0x79ae9a9b sha1 974fe446488fffaadb92e3b88e7bcbd27b71bcb8 )
+)
+
+game (
+	name "BioHazard (SLPS-00222)"
+	description "BioHazard (SLPS-00222)"
+	rom ( name "BioHazard (SLPS-00222) (Jill Starts With Infinite Ammo Rocket Launcher).psx" size 8246 crc 0x9ab353dc sha1 e514ed2d4df6648d50c1f2e938c9fefd472f86b7 )
+)
+
+game (
+	name "BioHazard - Director's Cut (SLPS-00998)"
+	description "BioHazard - Director's Cut (SLPS-00998)"
+	rom ( name "BioHazard - Director's Cut (SLPS-00998) (Jill Starts Late In Game, Before Tyrant).psx" size 8246 crc 0x710467fd sha1 8088f4c41a6dd3b72b5c05b6cece9d2d6e40a7a8 )
+	rom ( name "BioHazard - Director's Cut (SLPS-00998) (Jill Starts With Infinite Ammo Rocket Launcher).psx" size 8246 crc 0x2dd09e7a sha1 0d7f6340cbb7d9dbaa1b37479440198f6a995786 )
+)
+
+game (
+	name "BioHazard 2 (SLPS-01222)"
+	description "BioHazard 2 (SLPS-01222)"
+	rom ( name "BioHazard 2 (SLPS-01222) (Tofu Scenario Unlocked).psx" size 8246 crc 0x62ea11a5 sha1 65ff65b8aca1d1b016ce39a9e94847c1016a78c7 )
+)
+
+game (
+	name "Black Dawn (SLUS-00321)"
+	description "Black Dawn (SLUS-00321)"
+	rom ( name "Black Dawn (SLUS-00321) (All Levels Unlocked).psx" size 8246 crc 0x6ed4eef8 sha1 ee5d74408991f011162b603f4a475d3f9c636c2b )
+)
+
+game (
+	name "Blasto (SCUS-94412)"
+	description "Blasto (SCUS-94412)"
+	rom ( name "Blasto (SCUS-94412) (All Babes Saved, Secret Hub Opened).psx" size 8246 crc 0x97997846 sha1 de68d59cb1419084662552fba8858724e7871627 )
+	rom ( name "Blasto (SCUS-94412) (Start At Bosc's Fortress With All Babes Saved).psx" size 8246 crc 0xce364f66 sha1 74a14e6f177c3d656d021193db9472b15529f257 )
+)
+
+game (
+	name "Blood Omen - Legacy Of Kain (SLUS-00027)"
+	description "Blood Omen - Legacy Of Kain (SLUS-00027)"
+	rom ( name "Blood Omen - Legacy Of Kain (SLUS-00027) (Start At Final Battle, All Fmv Sequences Unlocked; 65 Days 07 Hrs).psx" size 8246 crc 0x21c20631 sha1 8aed800642ef8e3633a78314b1806b6e5221d3d8 )
+)
+
+game (
+	name "Bloody Roar (SCUS-94199)"
+	description "Bloody Roar (SCUS-94199)"
+	rom ( name "Bloody Roar (SCUS-94199) (All Bonus Mode Options And Art Gallery Unlocked).psx" size 8246 crc 0xe2551d4a sha1 7353c28f3c697fff159152fc63c1e31c7683f835 )
+)
+
+game (
+	name "Bloody Roar (SLPS-01070)"
+	description "Bloody Roar (SLPS-01070)"
+	rom ( name "Bloody Roar (SLPS-01070) (All Bonus Mode Options And Art Gallery Unlocked).psx" size 8246 crc 0x047289d4 sha1 4b6f08edcb3320d1e57d6275843c042dd7b020e2 )
+)
+
+game (
+	name "Bloody Roar 2 (SLPS-01842)"
+	description "Bloody Roar 2 (SLPS-01842)"
+	rom ( name "Bloody Roar 2 (SLPS-01842) (All Extra Options And Bonus Characters Unlocked).psx" size 8246 crc 0x5dcff450 sha1 26aa408695afb072bd4889e4d496b8507fd1b6f5 )
+)
+
+game (
+	name "Bogey Dead Six (SCUS-94307)"
+	description "Bogey Dead Six (SCUS-94307)"
+	rom ( name "Bogey Dead Six (SCUS-94307) (All Missions And Planes Unlocked).psx" size 16438 crc 0x698cb57a sha1 667a649952fdd3d9ea7bcaae29a7239b7e5f4a82 )
+)
+
+game (
+	name "Bomberman World (SLPS-01155)"
+	description "Bomberman World (SLPS-01155)"
+	rom ( name "Bomberman World (SLPS-01155) (Start At Last Level).psx" size 8246 crc 0x1544ae57 sha1 69cbe2611e1911fc3c0b330b9c5262f2a464765e )
+)
+
+game (
+	name "Brave Fencer Musashi (SLPS-01490)"
+	description "Brave Fencer Musashi (SLPS-01490)"
+	rom ( name "Brave Fencer Musashi (SLPS-01490) (Start Game At Chapter 4, Chapter 6, Or After The Final Battle).psx" size 8246 crc 0xa48838c4 sha1 a35fac3810ae7d830dc211f3cd1dee861e0906e2 )
+)
+
+game (
+	name "Brave Fencer Musashi (SLUS-00726)"
+	description "Brave Fencer Musashi (SLUS-00726)"
+	rom ( name "Brave Fencer Musashi (SLUS-00726) (All Techniques, All People Rescued, Ready To Face Last Crest Guardian And Dark Lumina).psx" size 8246 crc 0x3af93e8d sha1 53d41597c168abd0b9ff7b05b8c85e516104116c )
+	rom ( name "Brave Fencer Musashi (SLUS-00726) (All Techniques, All Saved People. Start Before Final Boss).psx" size 8246 crc 0x57a712c6 sha1 84e2030519646f1d05f83b2f8deb244632d55474 )
+)
+
+game (
+	name "Brave Prove (SLPS-01316)"
+	description "Brave Prove (SLPS-01316)"
+	rom ( name "Brave Prove (SLPS-01316) (Start Before Last Boss).psx" size 8246 crc 0xb1dd3fe4 sha1 b51f9e82418a4e4dc8b8565a654c62db9ffd111a )
+)
+
+game (
+	name "Breath Of Fire 3 (SLUS-00422)"
+	description "Breath Of Fire 3 (SLUS-00422)"
+	rom ( name "Breath of Fire 3 (SLUS-00422) (00h23m Lv 99).psx" size 8246 crc 0x51e5a608 sha1 1668607fd09322a05f57cb97e3024413c85f24b0 )
+	rom ( name "Breath Of Fire 3 (SLUS-00422) (Saved At Last Possible Location In Game).psx" size 8246 crc 0x5e7c94b4 sha1 d3c6eac46bc2735782aae0ad50283355dd14f7f8 )
+	rom ( name "Breath Of Fire 3 (SLUS-00422) (Start At Final Boss).psx" size 8246 crc 0xfc10c7fc sha1 5608eeed4409017a4c9aace120dfb7cd83850aef )
+	rom ( name "Breath Of Fire 3 (SLUS-00422) (Start At Level 99).psx" size 8246 crc 0x38b1c18c sha1 9680da15c387b249c4440e6b34d1fd1d4dfcf00e )
+)
+
+game (
+	name "Brigandine - The Legend Of Forsena (SLUS-00687)"
+	description "Brigandine - The Legend Of Forsena (SLUS-00687)"
+	rom ( name "Brigandine - The Legend Of Forsena (SLUS-00687) (Saved During Final Battle).psx" size 24630 crc 0x9b1e4a59 sha1 0db90a5fbb8a3f317472eb4313112f676ec1abc5 )
+)
+
+game (
+	name "Broken Helix (SLUS-00289)"
+	description "Broken Helix (SLUS-00289)"
+	rom ( name "Broken Helix (SLUS-00289) (At Level 6 Elevator With Most Weapons And Items).psx" size 16438 crc 0xb2792b65 sha1 46aa6d033b8bfac3be2f10714955c0c60d6538f3 )
+)
+
+game (
+	name "Bugs Bunny - Lost In Time (SLUS-00838)"
+	description "Bugs Bunny - Lost In Time (SLUS-00838)"
+	rom ( name "Bugs Bunny - Lost In Time (SLUS-00838) (All Levels, Max Gold Carrotts, 99 Lives).psx" size 8246 crc 0xdae004bd sha1 eebd5a0cce4f4a108ac306883998faafffd6852d )
+)
+
+game (
+	name "Bushido Blade (SCUS-94180)"
+	description "Bushido Blade (SCUS-94180)"
+	rom ( name "Bushido Blade (SCUS-94180) (Katze Unlocked In Versus Mode).psx" size 8246 crc 0x54db4dd5 sha1 5819339b57916886935b73d3e45eb7e3ac9e7ca9 )
+)
+
+game (
+	name "Bushido Blade (SLPM-86020)"
+	description "Bushido Blade (SLPM-86020)"
+	rom ( name "Bushido Blade (SLPM-86020) (All Endings Unlocked).psx" size 8246 crc 0x442b979c sha1 25f3252da6f5e6cf504642838b7a37a9f9f85a22 )
+	rom ( name "Bushido Blade (SLPM-86020) (Katze And All Endings Unlocked).psx" size 8246 crc 0xbbc3cb3d sha1 e3b15120150061b2de73bf3cdf7607d3ad25b021 )
+)
+
+game (
+	name "Bushido Blade 2 (SLPS-01294)"
+	description "Bushido Blade 2 (SLPS-01294)"
+	rom ( name "Bushido Blade 2 (SLPS-01294) (All Characters And Modes Unlocked).psx" size 8246 crc 0xf035686c sha1 8d9b089da568198b623fa17018d14a8f4110625c )
+)
+
+game (
+	name "Bushido Blade 2 (SLUS-00663)"
+	description "Bushido Blade 2 (SLUS-00663)"
+	rom ( name "Bushido Blade 2 (SLUS-00663) (All Characters And Slash Mode Unlocked).psx" size 8246 crc 0x585f47c9 sha1 60432044473565ad3f45eca0ec9d9f1ed3f205b1 )
+)
+
+game (
+	name "Bust A Groove (SCUS-94263)"
+	description "Bust A Groove (SCUS-94263)"
+	rom ( name "Bust A Groove (SCUS-94263) (All Characters And Levels).psx" size 8246 crc 0x2c062e92 sha1 67ee92ea4c859dace6446c359f1efcc7e1140456 )
+	rom ( name "Bust A Groove (SCUS-94263) (All Dancers, Including Capoiera, Robo-Z, And Columbo Unlocked).psx" size 8246 crc 0xd4d95513 sha1 d6a4a79bbc80f8383c6da16d795ca504b4f5459c )
+)
+
+game (
+	name "Bust-A-Move - Dance And Rhythm Action (SLPS-01232)"
+	description "Bust-A-Move - Dance And Rhythm Action (SLPS-01232)"
+	rom ( name "Bust-A-Move - Dance And Rhythm Action (SLPS-01232) (Start At End Of Game With All Characters).psx" size 8246 crc 0xd36aca9e sha1 a60ee33fa01581cf0fdccff459a4c367033217b9 )
+)
+
+game (
+	name "Bust-A-Move 2 - Arcade Edition (SLUS-00233)"
+	description "Bust-A-Move 2 - Arcade Edition (SLUS-00233)"
+	rom ( name "Bust-A-Move 2 - Arcade Edition (SLUS-00233) (All Time Trial Levels Unlocked).psx" size 8246 crc 0xd2be2c31 sha1 9cfbd643fde06a91efc0a15505b9c577f2635dff )
+)
+
+game (
+	name "Bust-A-Move 2 - Dance Heaven Mix (SLPM-86219)"
+	description "Bust-A-Move 2 - Dance Heaven Mix (SLPM-86219)"
+	rom ( name "Bust-A-Move 2 - Dance Heaven Mix (SLPM-86219) (All Characters And Dance Views Unlocked).psx" size 8246 crc 0x52220e57 sha1 ba76add39528b330e2bb328a488461972f7b387d )
+)
+
+game (
+	name "Bust-A-Move 4 (SLUS-00754)"
+	description "Bust-A-Move 4 (SLUS-00754)"
+	rom ( name "Bust-A-Move 4 (SLUS-00754) (All Hidden Characters Unlocked).psx" size 8246 crc 0xd52fb75a sha1 14e06e36c3dfe8430d557cfec02979a56365e151 )
+)
+
+game (
+	name "C - The Contra Adventure (SLUS-00499)"
+	description "C - The Contra Adventure (SLUS-00499)"
+	rom ( name "C - The Contra Adventure (SLUS-00499) (Levels 2-6 Unlocked).psx" size 8246 crc 0x6bfe2ecb sha1 c66f71d88b0dc3e5c6fc9f1308d8e2b984e1a021 )
+	rom ( name "C - The Contra Adventure (SLUS-00499) (Levels 7-9 Unlocked).psx" size 8246 crc 0xa84b1f2f sha1 ac54dffd533f68db7c10ed1c7c36847b58686c37 )
+)
+
+game (
+	name "Caesar's Palace (SLUS-00285)"
+	description "Caesar's Palace (SLUS-00285)"
+	rom ( name "Caesar's Palace (SLUS-00285) (Start with $65,535).psx" size 8246 crc 0x2d078170 sha1 d9928e428dade0586327f83d4ac4746dd130af1a )
+)
+
+game (
+	name "Caesars Palace II (SLUS-00780)"
+	description "Caesars Palace II (SLUS-00780)"
+	rom ( name "Caesars Palace II (SLUS-00780) (Over $17,000,000.00, High Stakes Games Unlocked).psx" size 8246 crc 0x1655af0a sha1 c2d20f90d32ad52c24cbb9cf096d240f6ae678d9 )
+)
+
+game (
+	name "Cardinal Syn (SCUS-94156)"
+	description "Cardinal Syn (SCUS-94156)"
+	rom ( name "Cardinal Syn (SCUS-94156) (All Characters Unlocked).psx" size 8246 crc 0x4e48bd51 sha1 dea73b2d44e7f1af40b533d893bac1351515dfb3 )
+)
+
+game (
+	name "Carnage Heart (SLPS-00151)"
+	description "Carnage Heart (SLPS-00151)"
+	rom ( name "Carnage Heart (SLPS-00151) (19 OKEs Created By The Game's Designers).psx" size 41014 crc 0xe49e30b9 sha1 2c6600d8d65d546910deb18324bb0c8782239065 )
+	rom ( name "Carnage Heart (SLPS-00151) (25 OKEs Created By The Game's Designers).psx" size 41014 crc 0x7bfee0e1 sha1 a0b642a69b16282ee97ce40f67fb2dccd8940fb3 )
+)
+
+game (
+	name "Castlevania - Symphony Of The Night (SLUS-00067)"
+	description "Castlevania - Symphony Of The Night (SLUS-00067)"
+	rom ( name "Castlevania - Symphony Of The Night (SLUS-00067) (62% Completion, All Morphs Available).psx" size 8246 crc 0xba7c9f55 sha1 1290c1131bae0782ed3829584c9025d9990655de )
+)
+
+game (
+	name "Chocobo - Mysterious Dungeon (SLPS-01234)"
+	description "Chocobo - Mysterious Dungeon (SLPS-01234)"
+	rom ( name "Chocobo - Mysterious Dungeon (SLPS-01234) (Maximum Status, Most Items, Ready For Evil Chocobo Battle).psx" size 8246 crc 0xa823ea18 sha1 2e1b98a95f8ece4caf1f28c9f1b3ff03ac8c6b72 )
+)
+
+game (
+	name "Chocobo Racing (SLUS-00844)"
+	description "Chocobo Racing (SLUS-00844)"
+	rom ( name "Chocobo Racing (SLUS-00844) (All Characters And Tracks Unlocked).psx" size 8246 crc 0x7716dc2e sha1 70320b6ea59579d1caf5fbb1e025acd98e4c54c1 )
+	rom ( name "Chocobo Racing (SLUS-00844) (All Classes And Crowns).psx" size 8246 crc 0x831c6df4 sha1 6cb6e3281703a5e0351fc204540919ad1f78606a )
+	rom ( name "Chocobo Racing (SLUS-00844) (All Movies).psx" size 8246 crc 0x1d85e89e sha1 2216a39f1664bc77b76b7730e11878574ae38f67 )
+	rom ( name "Chocobo Racing (SLUS-00844) (All Movies, Music, Classes And Crowns).psx" size 8246 crc 0x05b8e6b0 sha1 e6642d11686c0029204c933853cefe5e0886bec9 )
+	rom ( name "Chocobo Racing (SLUS-00844) (All Music).psx" size 8246 crc 0xda78ebd2 sha1 5b159b7404e95dc996028e2ce23b89f5994a0737 )
+	rom ( name "Chocobo Racing (SLUS-00844) (Start On Last Chapter In Story Mode).psx" size 8246 crc 0xdbf4a6ca sha1 398b992ad549e39b1c3a2232bdbaad7d85a074b8 )
+)
+
+game (
+	name "Choro Q Jet Rainbow Wings (SLPS-01140)"
+	description "Choro Q Jet Rainbow Wings (SLPS-01140)"
+	rom ( name "Choro Q Jet Rainbow Wings (SLPS-01140) (All hidden characters unlocked).psx" size 8246 crc 0xd34b6821 sha1 ee761cebec9b6cc4c18a51d2335474be471c0f10 )
+)
+
+game (
+	name "Circuit Breakers (SLUS-00697)"
+	description "Circuit Breakers (SLUS-00697)"
+	rom ( name "Circuit Breakers (SLUS-00697) (Bonus Cars And Tracks Unlocked).psx" size 8246 crc 0xdf3e13ac sha1 54aed40adba246aebe62a15d6d8230971aab4e80 )
+)
+
+game (
+	name "Clock Tower (SLUS-00539)"
+	description "Clock Tower (SLUS-00539)"
+	rom ( name "Clock Tower (SLUS-00539) (All Endings Unlocked).psx" size 8246 crc 0xf40e80fb sha1 23d5bc6db33d7dd8d9f3e49c987b878f2361d1d2 )
+)
+
+game (
+	name "Codename - Tenka (SCUS-94409)"
+	description "Codename - Tenka (SCUS-94409)"
+	rom ( name "Codename - Tenka (SCUS-94409) (Start On Level One With All Items, Weapons, And Ammo).psx" size 8246 crc 0x5cd678e8 sha1 9d2a49c80c9483c8accd86db1fe93a568c8cfa3a )
+)
+
+game (
+	name "Colony Wars (SLUS-00543)"
+	description "Colony Wars (SLUS-00543)"
+	rom ( name "Colony Wars (SLUS-00543) (All Missions Opened).psx" size 8246 crc 0xeece3121 sha1 1b2bb479a30135a94eedd0b3bf220a91d0962efd )
+	rom ( name "Colony Wars (SLUS-00543) (All Missions Unlocked).psx" size 8246 crc 0x39e7ceb0 sha1 06e9a8e66d0c5abb3fe64784c2169e5e30be1012 )
+)
+
+game (
+	name "Colony Wars Vengeance (SLUS-00722)"
+	description "Colony Wars Vengeance (SLUS-00722)"
+	rom ( name "Colony Wars Vengeance (SLUS-00722) (All Ships, Missions, And Endings Unlocked).psx" size 8246 crc 0x56a44ef1 sha1 554ae60a67775315b2bf1bfeb1c18c1ab94e310c )
+)
+
+game (
+	name "Command And Conquer - Red Alert - Retaliation (SLUS-00665)"
+	description "Command And Conquer - Red Alert - Retaliation (SLUS-00665)"
+	rom ( name "Command And Conquer - Red Alert - Retaliation (SLUS-00665) (All levels open with a ranking of General).psx" size 8246 crc 0x047679c7 sha1 049077b103ca03c51d072b5391f2b5299ba1ca6d )
+)
+
+game (
+	name "Contender (SCUS-94294)"
+	description "Contender (SCUS-94294)"
+	rom ( name "Contender (SCUS-94294) (Hedges And Young Have Full Experience, All Special Moves And Techniques).psx" size 8246 crc 0xaf5a40f8 sha1 1b5b6de8c0674076dcb2566923000344dcc3a39a )
+)
+
+game (
+	name "Contra - Legacy Of War (SLUS-00288)"
+	description "Contra - Legacy Of War (SLUS-00288)"
+	rom ( name "Contra - Legacy Of War (SLUS-00288) (Start At Last Level).psx" size 8246 crc 0x95005908 sha1 b9f5fa5c6ebcdd578538efc8435d2c5e46b38c2c )
+)
+
+game (
+	name "Cool Boarders (SCUS-94356)"
+	description "Cool Boarders (SCUS-94356)"
+	rom ( name "Cool Boarders (SCUS-94356) (Access Snowman Character).psx" size 8246 crc 0x87ec77aa sha1 cc5352027c95b33c2be4e25802639ddd2a787047 )
+	rom ( name "Cool Boarders (SCUS-94356) (Snowman Boarder Unlocked)..psx" size 8246 crc 0xa8a6927d sha1 dae754d3f00327ca71921973c787e5b126d944d1 )
+)
+
+game (
+	name "Cool Boarders 2 (SCUS-94358)"
+	description "Cool Boarders 2 (SCUS-94358)"
+	rom ( name "Cool Boarders 2 (SCUS-94358) (Snow Woman Character Unlocked).psx" size 8246 crc 0x572a46ca sha1 7011e5567d85b1f8a4c38c8ddecaed6b08b7aad2 )
+	rom ( name "Cool Boarders 2 (SCUS-94358) (Snowman Boarder Unlocked).psx" size 8246 crc 0x52c785e0 sha1 092f4eba45e5d2c71f53a038a561d08f3fe1c79d )
+)
+
+game (
+	name "Cool Boarders 3 (SCUS-94251)"
+	description "Cool Boarders 3 (SCUS-94251)"
+	rom ( name "Cool Boarders 3 (SCUS-94251) (All Mountains Unlocked).psx" size 8246 crc 0xcae7324d sha1 74539e76b5ae7c3e8809545a302e1223f1c6e683 )
+	rom ( name "Cool Boarders 3 (SCUS-94251) (All Slopes, Boarders And Boards).psx" size 8246 crc 0xd1d60dfd sha1 c317d22166fd2c388f80ca3feca3da99aa092b66 )
+)
+
+game (
+	name "Cool Boarders 4 (SCUS-94559)"
+	description "Cool Boarders 4 (SCUS-94559)"
+	rom ( name "Cool Boarders 4 (SCUS-94559) (All Countries, 7 Extra Boarders).psx" size 8246 crc 0x91ebb667 sha1 5cd8d67bacef99273299bc10d250972df15cdd55 )
+	rom ( name "Cool Boarders 4 (SCUS-94559) (Everything Unlocked).psx" size 8246 crc 0x186b3c2d sha1 d7e3ee3bbfabcc057f8cc5e4f365772e33feb762 )
+)
+
+game (
+	name "Courier Crisis (SLUS-00442)"
+	description "Courier Crisis (SLUS-00442)"
+	rom ( name "Courier Crisis (SLUS-00442) (All Levels Unlocked With Lots Of Money).psx" size 8246 crc 0xd6f35b55 sha1 add8a72ff37e09645deef385272d01b1341d7136 )
+)
+
+game (
+	name "Crash Bandicoot (SCUS-94900)"
+	description "Crash Bandicoot (SCUS-94900)"
+	rom ( name "Crash Bandicoot (SCUS-94900) (All Levels).psx" size 8246 crc 0x408c58ba sha1 43e66d6751b1a077b9b95c39f659a859a928b5cc )
+)
+
+game (
+	name "Crash Bandicoot 2 - Cortex Strikes Back (SCUS-94154)"
+	description "Crash Bandicoot 2 - Cortex Strikes Back (SCUS-94154)"
+	rom ( name "Crash Bandicoot 2 - Cortex Strikes Back (SCUS-94154) (100 Lives, All Crystals And Gems).psx" size 8246 crc 0x8044be7e sha1 35d336cccb15b6068211cb31b6bac71a6e29ea4a )
+	rom ( name "Crash Bandicoot 2 - Cortex Strikes Back (SCUS-94154) (All Levels Unlocked, With Gems And Crystals) (a1).psx" size 8246 crc 0x7799278c sha1 7e8070f0a9c9fc117648cc7c4012fca3ce3f83f1 )
+	rom ( name "Crash Bandicoot 2 - Cortex Strikes Back (SCUS-94154) (All Levels Unlocked, With Gems And Crystals).psx" size 8246 crc 0xef171e5f sha1 2f5159cb060879588cb67000113ea994f2948ed8 )
+)
+
+game (
+	name "Crash Bandicoot 3 - Warped (SCUS-94244)"
+	description "Crash Bandicoot 3 - Warped (SCUS-94244)"
+	rom ( name "Crash Bandicoot 3 - Warped (SCUS-94244) (All Levels Unlocked, With Gems And Crystals).psx" size 8246 crc 0x6b00b256 sha1 c00e2f1a1bc274d259d88fd0be2ef7cb8b2496bd )
+)
+
+game (
+	name "Crash Team Racing (SCUS-94426)"
+	description "Crash Team Racing (SCUS-94426)"
+	rom ( name "Crash Team Racing (SCUS-94426) (16 Trophies, 4 Keys, 18 Relics, 181% Complete).psx" size 8246 crc 0x3d1ed38c sha1 3686be89e1e6212afabd52baee106e9e4946bb6d )
+	rom ( name "Crash Team Racing (SCUS-94426) (All Trophies And Three Relics).psx" size 8246 crc 0xd643c118 sha1 4b093e7b9d4f5856b3a97126d54f00314367a307 )
+)
+
+game (
+	name "Critical Depth (SLUS-00042)"
+	description "Critical Depth (SLUS-00042)"
+	rom ( name "Critical Depth (SLUS-00042) (Agent 326 And Abaddon Unlocked).psx" size 8246 crc 0x9492df20 sha1 f564058f31a5bf071d4e6585ad11f3bb9ce13f83 )
+)
+
+game (
+	name "Croc - Legend Of The Gobbos (SLUS-00530)"
+	description "Croc - Legend Of The Gobbos (SLUS-00530)"
+	rom ( name "Croc - Legend Of The Gobbos (SLUS-00530) (All Levels - 96%).psx" size 8246 crc 0x1d10423d sha1 b9cafeb8743cf4a5352baa93c1b9f4afcbe43fd2 )
+	rom ( name "Croc - Legend Of The Gobbos (SLUS-00530) (All Levels Unlocked).psx" size 8246 crc 0x9ac86431 sha1 a2b5d39ea40ecbe1dcfb83689bb916c2fea9beac )
+)
+
+game (
+	name "Cyberbots - Full Metal Madness (SLPS-01011)"
+	description "Cyberbots - Full Metal Madness (SLPS-01011)"
+	rom ( name "Cyberbots - Full Metal Madness (SLPS-01011) (Game Completed With All Secret Characters Unlocked).psx" size 8246 crc 0x944368ed sha1 9b01d87dad3f9d5107daafb52151c18c6a9014c6 )
+)
+
+game (
+	name "Cyberia (SLUS-00053)"
+	description "Cyberia (SLUS-00053)"
+	rom ( name "Cyberia (SLUS-00053) (All Levels Unlocked - Use 'Bryan' As Player Name).psx" size 8246 crc 0x2f090b15 sha1 8cf8cda1408c7e67a9e1b861195ef28268de2b5d )
+)
+
+game (
+	name "Dark Forces (SLUS-00297)"
+	description "Dark Forces (SLUS-00297)"
+	rom ( name "Dark Forces (SLUS-00297) (All Levels Unlocked).psx" size 8246 crc 0xabc3c586 sha1 a444be2fabe75b17a550106f42ab9b8f5ae328d5 )
+)
+
+game (
+	name "Darkstalkers 3 - Vampire Savior (SLUS-00745)"
+	description "Darkstalkers 3 - Vampire Savior (SLUS-00745)"
+	rom ( name "Darkstalkers 3 - Vampire Savior (SLUS-00745) (All Characters, All Endings, All Four Art Galleries, And All Modes Unlocked).psx" size 8246 crc 0x16f7cfc8 sha1 1caba84bd0ae871192996d0b9af07edce70508c2 )
+)
+
+game (
+	name "Dead Or Alive (SLPS-01289)"
+	description "Dead Or Alive (SLPS-01289)"
+	rom ( name "Dead Or Alive (SLPS-01289) (All Characters, Including Raidou And Ayane, Unlocked; All 'extra Config', 'extra Voice' And 'extra Costumes' Options Unlocked).psx" size 8246 crc 0x2493b6e9 sha1 def559230b5039f734ee8df20bc1d2709d19d08c )
+	rom ( name "Dead Or Alive (SLPS-01289) (All Secret Features Unlocked).psx" size 8246 crc 0x90b32ba9 sha1 4cdcd53f6ea71bdcc7c5a83ed1c822f18aea9a1c )
+)
+
+game (
+	name "Dead Or Alive (SLUS-00606)"
+	description "Dead Or Alive (SLUS-00606)"
+	rom ( name "Dead Or Alive (SLUS-00606) (All Characters, Including Raidou And Ayane, Unlocked; All 'Extra Config, Voice and Costumes' Options Unlocked).psx" size 8246 crc 0x4e50548c sha1 0564a14f9c5620cac536d2b1ba50a2232179f67a )
+)
+
+game (
+	name "Deathtrap Dungeon (SLUS-00566)"
+	description "Deathtrap Dungeon (SLUS-00566)"
+	rom ( name "Deathtrap Dungeon (SLUS-00566) (All Weapons Unlocked).psx" size 8246 crc 0xce476398 sha1 b19126fd81df3a09a79862696d184cab02f7c318 )
+)
+
+game (
+	name "Destrega (SLUS-00732)"
+	description "Destrega (SLUS-00732)"
+	rom ( name "Destrega (SLUS-00732) (Story Mode Cleared).psx" size 8246 crc 0x6b6dc01d sha1 6b15cf1fdf0449df6b50ccca3ceb7121e47433ec )
+	rom ( name "Destrega (SLUS-00732) (Try Story Mode).psx" size 8246 crc 0x571d0881 sha1 ca18786bd086f83203db9f9a9c6c164793e60d15 )
+)
+
+game (
+	name "Destruction Derby (SCUS-94302)"
+	description "Destruction Derby (SCUS-94302)"
+	rom ( name "Destruction Derby (SCUS-94302) (Start In Division 2).psx" size 8246 crc 0xd215aaa4 sha1 26ff8441d14dc04bea9355182be500cb94796d39 )
+)
+
+game (
+	name "Destruction Derby 2 (SCUS-94350)"
+	description "Destruction Derby 2 (SCUS-94350)"
+	rom ( name "Destruction Derby 2 (SCUS-94350) (All Tracks And Bowls Unlocked).psx" size 8246 crc 0x2aa984f1 sha1 cebdfa8f280bf4efd4b11b7560e2d773abcaf4a6 )
+	rom ( name "Destruction Derby 2 (SCUS-94350) (All Tracks Unlocked).psx" size 8246 crc 0xf16f470b sha1 2038ab77559ae7d74b2e6fd5767be993ba914f6f )
+)
+
+game (
+	name "Devil Dice (SLUS-00672)"
+	description "Devil Dice (SLUS-00672)"
+	rom ( name "Devil Dice (SLUS-00672) (All Puzzles Completed In Puzzle Mode; 1000 New Puzzles, Random Puzzle Option, 15 Gallery Pictures Unlocked).psx" size 8246 crc 0xacea6376 sha1 2f892d8cea4ba19cc41dff8cb12c280980f72c08 )
+)
+
+game (
+	name "Diablo (SLUS-00619)"
+	description "Diablo (SLUS-00619)"
+	rom ( name "Diablo (SLUS-00619) (Lots Of Weapons, Armor And Spells).psx" size 8246 crc 0x3ac0f5b7 sha1 0fb5dae269de8eebafed5a8f76c50e826ddfb7b1 )
+	rom ( name "Diablo (SLUS-00619) (Maxed Out Characters - #1).psx" size 8246 crc 0x7c41f5a9 sha1 3f81cc129892ffe46b909a187a976b5936df0d50 )
+	rom ( name "Diablo (SLUS-00619) (Maxed Out Characters - #2).psx" size 8246 crc 0xc8c53226 sha1 d94a4538e92e21b3620b90da84dd373c15604f16 )
+	rom ( name "Diablo (SLUS-00619) (Maxed Out Rogue).psx" size 8246 crc 0x61972633 sha1 29fe827529812a6f729aa0e27c841112c13acb06 )
+	rom ( name "Diablo (SLUS-00619) (Three Characters With Many Items At High Level).psx" size 8246 crc 0xdd669af4 sha1 f3b2649569e752390b91f9349746504fe6dbf9cb )
+)
+
+game (
+	name "Die Hard Trilogy (SLUS-00119)"
+	description "Die Hard Trilogy (SLUS-00119)"
+	rom ( name "Die Hard Trilogy (SLUS-00119) (Final Levels Unlocked).psx" size 8246 crc 0x0fe0bee4 sha1 50962462bf1a84e23b4bb56a0776442f28e336c0 )
+)
+
+game (
+	name "Dino Crisis (SLUS-00922)"
+	description "Dino Crisis (SLUS-00922)"
+	rom ( name "Dino Crisis (SLUS-00922) (All Costumes, All Missions And Infinite Grenade Launcher).psx" size 8246 crc 0x4e6f8820 sha1 9ed3280d6b1fe502e478d83bbce176131ca71cce )
+	rom ( name "Dino Crisis (SLUS-00922) (Start Game With Alternate Costume 1).psx" size 8246 crc 0xd3f87580 sha1 4833f8c83bc285b6d4061ebe7f22ced034fd1d05 )
+	rom ( name "Dino Crisis (SLUS-00922) (Start Game With Alternate Costume 2).psx" size 8246 crc 0x4a69a43b sha1 26dfefd29e6648e37c7d861f7610890b47551ca7 )
+)
+
+game (
+	name "Dragon Seeds (SLUS-00734)"
+	description "Dragon Seeds (SLUS-00734)"
+	rom ( name "Dragon Seeds (SLUS-00734) (Various Wild Dragons, Spirits And Evils; Heart Cutter, Dream Blade, Ice Blade, Nitro Blade, Fang Guard, Spirit Guard, About $500000).psx" size 8246 crc 0xe1aaa934 sha1 efa7bd1c4565697ddaef24fed3389f33b406e23e )
+)
+
+game (
+	name "Dragonball GT Final Bout (SLUS-00493)"
+	description "Dragonball GT Final Bout (SLUS-00493)"
+	rom ( name "Dragonball GT Final Bout (SLUS-00493) (Goku At Level 86; 4,642 Battle Power For Training).psx" size 8246 crc 0x74ac7133 sha1 e6beeedd33adb6749b67f6d2813d440546a2a7d7 )
+	rom ( name "Dragonball GT Final Bout (SLUS-00493) (Train Your Player Mode - #1).psx" size 8246 crc 0xd0d8eb44 sha1 1ac1c733869ede527831cc585a5dc32c2363a21d )
+)
+
+game (
+	name "Dragonball Z Legends (SLPS-00355)"
+	description "Dragonball Z Legends (SLPS-00355)"
+	rom ( name "Dragonball Z Legends (SLPS-00355) (All Z Battles Unlocked With 100% Score, All Sp Battles Finished).psx" size 8246 crc 0xb6fab8a0 sha1 bd621eb44cc52061eb8f26d0dadda941d01eef37 )
+)
+
+game (
+	name "Driver (SLUS-00842)"
+	description "Driver (SLUS-00842)"
+	rom ( name "Driver (SLUS-00842) (All Levels Unlocked, Various Replays).psx" size 8246 crc 0xdd6bd0e9 sha1 e1eb9dd77a69bfd9bf2ccb78de0d7dc9c98488fe )
+)
+
+game (
+	name "Duke Nukem - Time To Kill (SLUS-00583)"
+	description "Duke Nukem - Time To Kill (SLUS-00583)"
+	rom ( name "Duke Nukem - Time To Kill (SLUS-00583) (Start At Final Level With All Weapons And Lots Of Ammunition).psx" size 8246 crc 0xb8faca02 sha1 38f59b8253cea9bc4e2a68dccc5824e994486ea1 )
+)
+
+game (
+	name "Duke Nukem - Total Meltdown (SLUS-00355)"
+	description "Duke Nukem - Total Meltdown (SLUS-00355)"
+	rom ( name "Duke Nukem - Total Meltdown (SLUS-00355) (Start On First Level With All Weapons And Items).psx" size 32822 crc 0x633c28ea sha1 7ebfa64421c8c8fe46f479160f83f32147af5f0c )
+)
+
+game (
+	name "Dynasty Warriors (SLPS-00731)"
+	description "Dynasty Warriors (SLPS-00731)"
+	rom ( name "Dynasty Warriors (SLPS-00731) (All 16 Characters Unlocked).psx" size 8246 crc 0x6841a5e1 sha1 92247d912e151ef2e8b38f732d0a976545a37197 )
+)
+
+game (
+	name "Dynasty Warriors (SLUS-00438)"
+	description "Dynasty Warriors (SLUS-00438)"
+	rom ( name "Dynasty Warriors (SLUS-00438) (All Characters Unlocked).psx" size 8246 crc 0xa4887941 sha1 23d5bee84d8200d5598ba297f51ced5c15fa1b08 )
+	rom ( name "Dynasty Warriors (SLUS-00438) (Nobunaga Unlocked).psx" size 8246 crc 0x043ddf3e sha1 1449fa76c22080f400a1a7b76041de9dfcbc98ff )
+)
+
+game (
+	name "Ehrgeiz (SLPS-01750)"
+	description "Ehrgeiz (SLPS-01750)"
+	rom ( name "Ehrgeiz (SLPS-01750) (All Characters And FMV Sequences Unlocked).psx" size 8246 crc 0xe96d9361 sha1 d2a125977ddbb3aef69e6d97d16f468ee3b05392 )
+)
+
+game (
+	name "Ehrgeiz (SLUS-00809)"
+	description "Ehrgeiz (SLUS-00809)"
+	rom ( name "Ehrgeiz (SLUS-00809) (All Characters).psx" size 8246 crc 0x8d53bfad sha1 4c2b5d8328d84f78114025c3194680ca337295e1 )
+)
+
+game (
+	name "Einhander (SCUS-94243)"
+	description "Einhander (SCUS-94243)"
+	rom ( name "Einhander (SCUS-94243) (All Hidden Weapons And Ships).psx" size 8246 crc 0x66cce6da sha1 472ab361bc14ddaaaafe0482ee1fa8533ed32395 )
+)
+
+game (
+	name "Einhander (SLPS-01008)"
+	description "Einhander (SLPS-01008)"
+	rom ( name "Einhander (SLPS-01008) (Gallery Option Unlocked)).psx" size 8246 crc 0xd5a0e16d sha1 e81bfc1c6563f32a74a0e6f0b859aa643d6abb96 )
+)
+
+game (
+	name "Elemental Gearbolt (SCPS-10038)"
+	description "Elemental Gearbolt (SCPS-10038)"
+	rom ( name "Elemental Gearbolt (SCPS-10038) (All Extra Options Unlocked).psx" size 8246 crc 0x341918ac sha1 b4423e888d8ae7ad6591f900cbd45f3f49405817 )
+)
+
+game (
+	name "Elemental Gearbolt (SLUS-00654)"
+	description "Elemental Gearbolt (SLUS-00654)"
+	rom ( name "Elemental Gearbolt (SLUS-00654) (All Extra Options, Including Outtakes, Unlocked).psx" size 8246 crc 0x5e6a5903 sha1 e657c863f8feb44554fe12cf82200e91c80419b5 )
+	rom ( name "Elemental Gearbolt (SLUS-00654) (All Modes Unlocked).psx" size 8246 crc 0xd27f4c75 sha1 5806a23b7112ac9a663752cf858dadc4e6384efc )
+)
+
+game (
+	name "Espn X-Games Pro Boarder (SLUS-00704)"
+	description "Espn X-Games Pro Boarder (SLUS-00704)"
+	rom ( name "Espn X-Games Pro Boarder (SLUS-00704) (All Nine Courses In Circuit Mode, All Nine Courses In One And Two Player Mode Unlocked).psx" size 8246 crc 0x5677609f sha1 3b5755f928634700163dddf5b1bbdaafc5850dc2 )
+)
+
+game (
+	name "Evil Zone (SLUS-00855)"
+	description "Evil Zone (SLUS-00855)"
+	rom ( name "Evil Zone (SLUS-00855) (All Extras Unlocked, Last Boss Playable, Alternate Costumes Unlocked).psx" size 8246 crc 0x25e288b5 sha1 3493dc4ba240a1a0966cfbc70c36e9282fba32b9 )
+)
+
+game (
+	name "Felony 11-79 (SLUS-00533)"
+	description "Felony 11-79 (SLUS-00533)"
+	rom ( name "Felony 11-79 (SLUS-00533) (All Vehicles And Tracks Unlocked).psx" size 8246 crc 0x8e944775 sha1 6a3baa9122c778531ec7efacbbea1ebed5ed97ca )
+)
+
+game (
+	name "FIFA 2000 (SLUS-00994)"
+	description "FIFA 2000 (SLUS-00994)"
+	rom ( name "FIFA 2000 (SLUS-00994) (This Is An Update For The Settings Of Fifa 2000. It Has The Mls Teams Updated With All The Starting Rosters How They're Supposed To Be.).psx" size 16438 crc 0xe1c239d8 sha1 eea389799cef231175b4e99fc629aed8199eb0b6 )
+)
+
+game (
+	name "FIFA Soccer 99 (SLUS-00782)"
+	description "FIFA Soccer 99 (SLUS-00782)"
+	rom ( name "FIFA Soccer 99 (SLUS-00782) (Updated Us Rosters).psx" size 16438 crc 0xf3cdb020 sha1 999cc7b2b8364ca9524a2b7aab5588f2e88769da )
+)
+
+game (
+	name "Fighters Impact (SLPS-00822)"
+	description "Fighters Impact (SLPS-00822)"
+	rom ( name "Fighters Impact (SLPS-00822) (All Stages And Bosses Unlocked).psx" size 8246 crc 0x9b406cfb sha1 dbdd9b9abea3987a049818619e79ebd4c88be7dc )
+)
+
+game (
+	name "Fighting Force (SLUS-00433)"
+	description "Fighting Force (SLUS-00433)"
+	rom ( name "Fighting Force (SLUS-00433) (Start At Level 8).psx" size 8246 crc 0x5475f116 sha1 c03b502f06c65f2e83c28a8ca910bed2f6e01f94 )
+)
+
+game (
+	name "Final Fantasy Tactics (SCUS-94221)"
+	description "Final Fantasy Tactics (SCUS-94221)"
+	rom ( name "Final Fantasy Tactics (SCUS-94221) (05'10'23, Level 99, February 08, Lionel Castle, Heaven Knight).psx" size 8246 crc 0xbcecc819 sha1 2c80adc2e2cd771b2720c112f3679df11d94e356 )
+	rom ( name "Final Fantasy Tactics (SCUS-94221) (05'44'46, Level 99, May 12, Lesalia Imperial Capital, Wizard).psx" size 8246 crc 0x1ba02efb sha1 14469c88d1d16c826d11cb0af94c93a8aa1422ef )
+	rom ( name "Final Fantasy Tactics (SCUS-94221) (05'58'24, Level 99, May 16, Orbonne Monastery, Time Mage).psx" size 8246 crc 0xbe062a28 sha1 4d4967f79544b09838f77173e2e22b93765771db )
+	rom ( name "Final Fantasy Tactics (SCUS-94221) (07'03'11, Level 99, May 23, Yuguo Woods, Calculator).psx" size 8246 crc 0xdac201f7 sha1 54f5ae976ea95936e0a57809f4cb7ca4220b18c5 )
+	rom ( name "Final Fantasy Tactics (SCUS-94221) (07'22'05, Level 99, May 24, Riovanes Castle, Calculator).psx" size 8246 crc 0x088460a5 sha1 012eb74d567645733ce697767a9849d8c0ac0367 )
+	rom ( name "Final Fantasy Tactics (SCUS-94221) (08'52'11, Level 99, June 11, Poeskas Lake, Summoner).psx" size 8246 crc 0x16af9fe5 sha1 987061cf24cf6a4a764959715822c18842cfbeab )
+	rom ( name "Final Fantasy Tactics (SCUS-94221) (09'39'06, Level 99, June 26, Murond Holy Place, Calculator).psx" size 8246 crc 0xd21696c0 sha1 28d7ff22cdff5308b27f476b23c4a6f1305ff3cf )
+	rom ( name "Final Fantasy Tactics (SCUS-94221) (10'06'12, Level 99, June 30, Murond Death City, Lancer).psx" size 8246 crc 0x877ef81d sha1 1d5954f39d65bc2f758992c8520c8ac790974aff )
+	rom ( name "Final Fantasy Tactics (SCUS-94221) (5'30'30, Level 99, May 11, Goland Coal City, Ninja).psx" size 8246 crc 0xd2bd26b0 sha1 e4ec5bf2dbc5f26c71c7caf33cd2b812d1fa5789 )
+	rom ( name "Final Fantasy Tactics (SCUS-94221) (End Boss, Most Characters At Level 99, All Secrets Including Cloud And Materia Blade Unlocked).psx" size 8246 crc 0x4766c5b3 sha1 0437cf8e0427f104805ca415f5bbb89b749543f9 )
+	rom ( name "Final Fantasy Tactics (SCUS-94221) (Last Battle, 10'11'00, Level 99, June 30, Murond Death City, Lancer).psx" size 8246 crc 0xbe1229b7 sha1 0e567f7296f37284c69db006910464d9dc3c1b2e )
+)
+
+game (
+	name "Final Fantasy VII (SCUS-94163)"
+	description "Final Fantasy VII (SCUS-94163)"
+	rom ( name "Final Fantasy VII (SCUS-94163) (Start At Final Battle With Sepheroth).psx" size 8246 crc 0x0af458d6 sha1 d02b686bed9737b4689ca53e8ecdf299a96d235c )
+)
+
+game (
+	name "Final Fantasy VII (SLPS-00700)"
+	description "Final Fantasy VII (SLPS-00700)"
+	rom ( name "Final Fantasy VII (SLPS-00700) (All Items And Materials).psx" size 8246 crc 0x1f9fb725 sha1 f4b7510f14357b1b560bcba599018507f3afe926 )
+)
+
+game (
+	name "Final Fantasy VIII (SLPS-01880)"
+	description "Final Fantasy VIII (SLPS-01880)"
+	rom ( name "Final Fantasy VIII (SLPSP01880) (All Guardian Forces, All Magic For Squall) (Region Converted).psx" size 8246 crc 0x9a80ff2a sha1 91e2dc294441b5f9d3650ebd48081e42861fa9d0 )
+)
+
+game (
+	name "Final Fantasy VIII (SLUS-00892)"
+	description "Final Fantasy VIII (SLUS-00892)"
+	rom ( name "Final Fantasy VIII (SLUSP00892) (All Char & Gf's Level 100 (Except Cactaur&Eden), All Gf Abilities Learnt, All Ultimate Weapons, All Limit Breaks Except Rinoa. All Commands Unlocked) (Region Converted).psx" size 8246 crc 0x44ac2953 sha1 46d68b165107c74f66d49366cf0e4b3f03751b71 )
+	rom ( name "Final Fantasy VIII (SLUSP00892) (All Guys At Level 50+ At Last Boss) (Region Converted).psx" size 8246 crc 0xb6bb5225 sha1 ea7be3c45af32ea8ba78e011ae9dd525c1d4052b )
+	rom ( name "Final Fantasy VIII (SLUSP00892) (Debug Room) (Region Converted).psx" size 8246 crc 0xdc3f3c80 sha1 2eb655bdd2213544a35f648d210a64e55f929bd4 )
+)
+
+game (
+	name "Fishermans Bait (SLUS-00802)"
+	description "Fishermans Bait (SLUS-00802)"
+	rom ( name "Fishermans Bait (SLUS-00802) (Two Extra Lakes).psx" size 8246 crc 0xc8fb068c sha1 0781e1ada1bec283e585588e9f6a7ec775bebcb9 )
+)
+
+game (
+	name "Formula 1 (SCUS-94353)"
+	description "Formula 1 (SCUS-94353)"
+	rom ( name "Formula 1 (SCUS-94353) (Extra Modes Unlocked).psx" size 8246 crc 0x7602911b sha1 dd9893b8f841bb6618b2d78bb7b6abc13b8dd7ee )
+)
+
+game (
+	name "Frogger (SLUS-00506)"
+	description "Frogger (SLUS-00506)"
+	rom ( name "Frogger (SLUS-00506) (All Levels Unlocked, Seven Golden Frogs).psx" size 8246 crc 0xb855efb2 sha1 4cebba1fcde22d32aad889877f6641c6c5e17623 )
+	rom ( name "Frogger (SLUS-00506) (All Levels, All Golden Frogs).psx" size 8246 crc 0x3f2f4437 sha1 f11d9d249615a96411ee4d33ab2ad5b0c1dfa330 )
+)
+
+game (
+	name "Front Mission 2 (SLPS-01000)"
+	description "Front Mission 2 (SLPS-01000)"
+	rom ( name "Front Mission 2 (SLPS-01000) (Full Armor And Weapons).psx" size 16438 crc 0x18fbb3b3 sha1 8893b6a2548c34bb65913826983460a40a1e4cb6 )
+	rom ( name "Front Mission 2 (SLPS-01000) (Start At Second To Last Level).psx" size 16438 crc 0x18fbb3b3 sha1 8893b6a2548c34bb65913826983460a40a1e4cb6 )
+)
+
+game (
+	name "Future Cop - L.A.P.D. (SLUS-00739)"
+	description "Future Cop - L.A.P.D. (SLUS-00739)"
+	rom ( name "Future Cop - L.A.P.D. (SLUS-00739) (All Levels Unlocked).psx" size 8246 crc 0xd0863739 sha1 69fb61e7f902c431895bc11f3bf9c0e071c54d2e )
+)
+
+game (
+	name "G-Darius (SLUS-00690)"
+	description "G-Darius (SLUS-00690)"
+	rom ( name "G-Darius (SLUS-00690) (Several Plot Branches Completed).psx" size 8246 crc 0xa9f17464 sha1 4879c49ee86d9a34b132debd3c60fc823e23430c )
+)
+
+game (
+	name "G-Police (SLUS-00544)"
+	description "G-Police (SLUS-00544)"
+	rom ( name "G-Police (SLUS-00544) (Six Secret Training Mode Levels Unlocked).psx" size 8246 crc 0xba81f87c sha1 f83c835fcc805d16de15115c62750e2d1b5ae90d )
+)
+
+game (
+	name "Gamera 2000 (SLPS-00833)"
+	description "Gamera 2000 (SLPS-00833)"
+	rom ( name "Gamera 2000 (SLPS-00833) (All Levels Unlocked).psx" size 8246 crc 0x8b383654 sha1 b78e6ae274677cd7c81f206b7b1f44c3d4a220e0 )
+)
+
+game (
+	name "Gameshark Code Saves (Various)"
+	description "Gameshark Code Saves (Various)"
+	rom ( name "Crash Team Racing (Gameshark Codes Save).psx" size 8246 crc 0x7431ecea sha1 91d3ba87a5ffa5b32014d06dc1a4eed8ebb2f7bb )
+	rom ( name "Dino Crisis (Gameshark Codes Save).psx" size 8246 crc 0x3800c1eb sha1 dfeaa3174ce432f2bfe6cd1078554c075b58cfa8 )
+	rom ( name "Driver (Gameshark Codes Save).psx" size 8246 crc 0x3af9e2bd sha1 77df6c545a4b9a6fd50bccdb45000429a4e20f15 )
+	rom ( name "Final Fantasy V (Gameshark Codes Save).psx" size 8246 crc 0x22a568a5 sha1 ad27332296cebcd85b874c248bd99e7d844c2d8b )
+	rom ( name "Final Fantasy VI (Gameshark Codes Save).psx" size 8246 crc 0x10557a74 sha1 162239b451bb5157cd4b6ca20878908de430eab8 )
+	rom ( name "Final Fantasy VIII (Gameshark Codes Save).psx" size 8246 crc 0x77cc7f47 sha1 eeb1b96db1e58ba0340f2bb16551813509a9cb1c )
+	rom ( name "Legacy Of Kain Soul Reaver Codes (Gameshark Codes Save).psx" size 8246 crc 0xeb37d80f sha1 57131a12fb9adec48106011c70a72c0174f71855 )
+	rom ( name "Metal Gear Solid VR Missions (Gameshark Codes Save).psx" size 8246 crc 0xbd30d948 sha1 001245b357ea9c343b0cd308ff1ec1c50dc434aa )
+	rom ( name "Star Ocean 2 (Gameshark Code Save).psx" size 8246 crc 0x6aca9d00 sha1 ee17b542b5d68d51a531a0757cb3f895c7d09e59 )
+	rom ( name "Star Ocean The Second Story (Gameshark Code Saves).psx" size 8246 crc 0x797fd96f sha1 381bcd39f568cd394208043b73ad16f1fc384c65 )
+	rom ( name "Tony Hawks Pro Skater Codes (Gameshark Code Saves).psx" size 8246 crc 0x033b0bf2 sha1 3f881c09688b38e6389eb1c47ed447ddab530dfe )
+	rom ( name "WWF Attitude Codes (Gameshark Code Saves).psx" size 8246 crc 0xacbc5974 sha1 908b8731e522381c5e970abf6690a421433d1f43 )
+)
+
+game (
+	name "Gex - Enter The Gecko (SLUS-00598)"
+	description "Gex - Enter The Gecko (SLUS-00598)"
+	rom ( name "Gex - Enter The Gecko (SLUS-00598) (All Remotes, Ready To Fight Rez - 98% - ).psx" size 8246 crc 0x968eb127 sha1 b026e3b713bedb299198e24328a39b0bc9dfead6 )
+)
+
+game (
+	name "Gex III - Deep Cover Gecko (SLUS-00806)"
+	description "Gex III - Deep Cover Gecko (SLUS-00806)"
+	rom ( name "Gex III - Deep Cover Gecko (SLUS-00806) (Various).psx" size 8246 crc 0x4502d772 sha1 ec381f0b4df1540c676c21d8d32f06255ffffe85 )
+)
+
+game (
+	name "Ghost In The Shell (SCPS-10043)"
+	description "Ghost In The Shell (SCPS-10043)"
+	rom ( name "Ghost In The Shell (SCPS-10043) (All Missions Unlocked).psx" size 8246 crc 0xa0de40e3 sha1 ce63a75be3ce07c301fc4e52855da2203676aa24 )
+)
+
+game (
+	name "Ghost In The Shell (SLUS-00552)"
+	description "Ghost In The Shell (SLUS-00552)"
+	rom ( name "Ghost In The Shell (SLUS-00552) (5 Mission And 3 Training Fmv Sequences Unlocked).psx" size 8246 crc 0x0f0afce7 sha1 cb94801353fa3ec083779bdbef99e721e9506761 )
+	rom ( name "Ghost In The Shell (SLUS-00552) (All 12 Levels Open).psx" size 8246 crc 0x1f715161 sha1 8dc88b6448cefcc00cc1301edaa18376f1989e90 )
+	rom ( name "Ghost In The Shell (SLUS-00552) (All Missions Unlocked).psx" size 8246 crc 0xf4188e05 sha1 0e0ff64d75b5c40195e7cb25979c64782565a161 )
+)
+
+game (
+	name "Golden Nugget (SLUS-00319)"
+	description "Golden Nugget (SLUS-00319)"
+	rom ( name "Golden Nugget (SLUS-00319) ($9,999,999 And 99 Markers).psx" size 8246 crc 0x725e6935 sha1 060b75e17eeeb6f4d234bddb084521d5c799009b )
+)
+
+game (
+	name "Gran Turismo (SCPS-10045)"
+	description "Gran Turismo (SCPS-10045)"
+	rom ( name "Gran Turismo (SCPS-10045) (Goodies 1-2 And All Licenses Unlocked, Extra Money, Many Cars).psx" size 41014 crc 0xd298e42d sha1 50737a92c17872dc40ec8c857236f1bd4cb73f3d )
+	rom ( name "Gran Turismo (SCPS-10045) (Goodies 1-2 And All Licenses Unlocked, Extra Money, No Cars).psx" size 41014 crc 0x0c396599 sha1 0350a49df7b21cafde28daeb094e6ac5d6e86b83 )
+)
+
+game (
+	name "Gran Turismo (SCUS-94194)"
+	description "Gran Turismo (SCUS-94194)"
+	rom ( name "Gran Turismo (SCUS-94194) (1 Billion Dollars In Simulation Mode).psx" size 41014 crc 0x5162bbe3 sha1 908a8d1e935c296a87db6ee03c2efeb7d807e377 )
+	rom ( name "Gran Turismo (SCUS-94194) (All Cars AndTracks In Arcade Mode, All Licenses In Sim. Mode).psx" size 41014 crc 0x41094bb1 sha1 be76337f16dee3f4ff298bb71ab9c5a0c0110cc9 )
+	rom ( name "Gran Turismo (SCUS-94194) (All Licenses And Bonuses Unlocked).psx" size 41014 crc 0x263aac92 sha1 6f1681663fac94d1eb6610d78c2a3b1b1c700297 )
+	rom ( name "Gran Turismo (SCUS-94194) (All Prize Cars In Every Color Available).psx" size 41014 crc 0xd5ae633a sha1 d7dbd0ed0105529b074a194cdcd6ff8cc96ce5c2 )
+	rom ( name "Gran Turismo (SCUS-94194) (Hybrids Created For Every Car).psx" size 41014 crc 0x000af277 sha1 c0e0fd08ce8ec2c9ec0fb4c61c04650ffb89f9f5 )
+	rom ( name "Gran Turismo (SCUS-94194) (Super Cars Available).psx" size 41014 crc 0x0a6ebb72 sha1 8c4e6249337f9b2ea1e3849b16e5f437d1bf2afa )
+)
+
+game (
+	name "Grand Theft Auto (SLUS-00106)"
+	description "Grand Theft Auto (SLUS-00106)"
+	rom ( name "Grand Theft Auto (SLUS-00106) (All Cities And Weapons Unlocked).psx" size 8246 crc 0x53912143 sha1 693bba445b574c50bf916e5ae6fa8a34f3d05a17 )
+	rom ( name "Grand Theft Auto (SLUS-00106) (All Weapons, Cities, 99 Lives).psx" size 8246 crc 0xc1b42dcf sha1 48b4afe8e3c10b5d5b799bb05003086868e59077 )
+)
+
+game (
+	name "Grand Tour Racing '98 (SLUS-00494)"
+	description "Grand Tour Racing '98 (SLUS-00494)"
+	rom ( name "Grand Tour Racing '98 (SLUS-00494) (All Tracks Unlocked).psx" size 8246 crc 0xa5ed507f sha1 163c5b3d0fec3b280de25d47baaefbe3ab7f0c1a )
+)
+
+game (
+	name "Grandia (SCUS-94457)"
+	description "Grandia (SCUS-94457)"
+	rom ( name "Grandia (SCUSP94457) (Ready To Face The Final Battle) (Region Converted).psx" size 8246 crc 0x9e3fbfae sha1 7eed7bf42c1ee894159797979dc815ac71f72f05 )
+)
+
+game (
+	name "Granstrem Saga (SLUS-00597)"
+	description "Granstrem Saga (SLUS-00597)"
+	rom ( name "Granstrem Saga (SLUS-00597) (Start At First Save Point With Maximum Hp, Mp, Lp, At, And Df; All Weapons, Armor, Shields, Scepters; 99 Elixirs; $99,999).psx" size 8246 crc 0x356f6b15 sha1 ca74d6bb5d7f869e972e10d560da2735036cc719 )
+	rom ( name "Granstrem Saga (SLUS-00597) (Two Different Endings Depending On Which Girl Is Chosen).psx" size 8246 crc 0x7bdba003 sha1 3fb1dc9838a52896cdee1b290dc53584a5379b5f )
+)
+
+game (
+	name "Guilty Gear (SLUS-00772)"
+	description "Guilty Gear (SLUS-00772)"
+	rom ( name "Guilty Gear (SLUS-00772) (All Characters Unlocked).psx" size 8246 crc 0x335a0e5a sha1 1240de0788218c412cb8ef39abce47d3c5159068 )
+)
+
+game (
+	name "Gundam - The Battle Master 2 (SLPS-01286)"
+	description "Gundam - The Battle Master 2 (SLPS-01286)"
+	rom ( name "Gundam - The Battle Master 2 (SLPS-01286) (All 16 Characters Unlocked).psx" size 8246 crc 0x5709ecbc sha1 7e56818103da2a57f811c05c482b3856bbdbea28 )
+)
+
+game (
+	name "Heart Of Darkness (Hacked)"
+	description "Heart Of Darkness (Hacked)"
+	rom ( name "Heart Of Darkness (Hacked) (All Levels And Fmv Sequences Unlocked).psx" size 8246 crc 0x173a69c1 sha1 1e4b3400663803a50cf0268231e19845409fd8a7 )
+)
+
+game (
+	name "Heart Of Darkness (SLUS-00696)"
+	description "Heart Of Darkness (SLUS-00696)"
+	rom ( name "Heart Of Darkness (SLUS-00696) (All Levels And FMV Sequences Unlocked).psx" size 8246 crc 0xc22da9e9 sha1 dc55ed0517599c1c844de08582c8fd3f328f40eb )
+	rom ( name "Heart Of Darkness (SLUS-00696) (All The Full Motion Animation).psx" size 8246 crc 0x0b8e11eb sha1 7355e9f46cc2102bff3763cb1a894504d38532cc )
+)
+
+game (
+	name "Herc's Adventure (SLUS-00298)"
+	description "Herc's Adventure (SLUS-00298)"
+	rom ( name "Herc's Adventure (SLUS-00298) (999 Health, 999 Strength And Mad Money).psx" size 8246 crc 0x09a217d1 sha1 e607c7c56b1a734d038ae3b0f8e5273488560774 )
+)
+
+game (
+	name "Hercules (SLUS-00529)"
+	description "Hercules (SLUS-00529)"
+	rom ( name "Hercules (SLUS-00529) (All FMV Sequences Unlocked) [a1].psx" size 8246 crc 0xdbfce8a1 sha1 41494a9ce2e16ff2596833b920b658f9e0428891 )
+	rom ( name "Hercules (SLUS-00529) (All FMV Sequences Unlocked).Gme.psx" size 8246 crc 0x4a88592f sha1 4fe6fdb26e7de2670ac7af35c988d8738e44d02e )
+)
+
+game (
+	name "Hot Shots Golf (SCUS-94188)"
+	description "Hot Shots Golf (SCUS-94188)"
+	rom ( name "Hot Shots Golf (SCUS-94188) (All Characters And Courses).psx" size 24630 crc 0x3128e204 sha1 be4112601eedb86cd7c73ae22bde79ec9247340f )
+	rom ( name "Hot Shots Golf (SCUS-94188) (All Golfers And Courses Unlocked).psx" size 24630 crc 0xbeb549cb sha1 2b62373e275a3062188f1354a19df8f064f8c001 )
+)
+
+game (
+	name "Intelligent Qube (SCUS-94181)"
+	description "Intelligent Qube (SCUS-94181)"
+	rom ( name "Intelligent Qube (SCUS-94181) (All Characters And Create Option Unlocked).psx" size 8246 crc 0xb176b43a sha1 057ccf96b58bd9544dae985c72f3c9c4e0f5b8b1 )
+	rom ( name "Intelligent Qube (SCUS-94181) (All The Characters).psx" size 8246 crc 0xe589334b sha1 53f8bd5e6fdd8328820690bdd409abdadb0ff6ee )
+)
+
+game (
+	name "Jeremy Supercross '98 (SLUS-00479)"
+	description "Jeremy Supercross '98 (SLUS-00479)"
+	rom ( name "Jeremy Supercross '98 (SLUS-00479) (All Tracks And Bikes).psx" size 8246 crc 0x6867081d sha1 5fbc1f6a595cd0d254df3aaa298439d4e0f2aa38 )
+)
+
+game (
+	name "Jet Moto (SCUS-94309)"
+	description "Jet Moto (SCUS-94309)"
+	rom ( name "Jet Moto (SCUS-94309) (All Tracks Unlocked).psx" size 8246 crc 0x59df2731 sha1 8f634898afd963be24b874bd477e05e3c9bb6296 )
+	rom ( name "Jet Moto (SCUS-94309) (All Tracks).psx" size 8246 crc 0x8a79b3f3 sha1 36d9e0115227f069f480afcd665bea95b9f09e43 )
+)
+
+game (
+	name "Jet Moto 2 (SCUS-94167)"
+	description "Jet Moto 2 (SCUS-94167)"
+	rom ( name "Jet Moto 2 (SCUS-94167) (All Tracks And Enigma Unlocked).psx" size 8246 crc 0xfda11ba0 sha1 028e4d4724669b1dd2addc922e8c4c3b5304b383 )
+	rom ( name "Jet Moto 2 (SCUS-94167) (All Tracks Unlocked).psx" size 8246 crc 0x9170f50f sha1 d6f6ddeb0eaeabc852bbd9ff80c5369d9a3e1115 )
+	rom ( name "Jet Moto 2 (SCUS-94167) (All Tracks, Secret Player).psx" size 8246 crc 0x6e70eb62 sha1 08fa30d32b8ff9acf35b22dd26a37ea609897997 )
+	rom ( name "Jet Moto 2 (SCUS-94167) (Get Power-Ups During Stunts).psx" size 8246 crc 0x089c4c2d sha1 b22299ddc284d0dddf08943bdf0d018f1ec427a7 )
+)
+
+game (
+	name "Jumping Flash (SCUS-94103)"
+	description "Jumping Flash (SCUS-94103)"
+	rom ( name "Jumping Flash (SCUS-94103) (All Levels Unlocked).psx" size 8246 crc 0xf44d1e29 sha1 cf56bcb409eb708cbbbde64099cd6ac5628fe0de )
+	rom ( name "Jumping Flash (SCUS-941030) (All Levels Available).psx" size 8246 crc 0x52ff56ce sha1 03bec16c7cb2e8c230506bdb8eaad07263f8c091 )
+)
+
+game (
+	name "Jumping Flash 2 (SCUS-94108)"
+	description "Jumping Flash 2 (SCUS-94108)"
+	rom ( name "Jumping Flash 2 (SCUS-94108) (All Levels Available).psx" size 8246 crc 0x20ebb611 sha1 5d7b4676f040e036ce07a0d8646a5ab313ee967e )
+	rom ( name "Jumping Flash 2 (SCUS-94108) (All Levels Unlocked).psx" size 8246 crc 0xed1f2cab sha1 2efa999e52298d3cb2f8d05d19f31c654f976479 )
+)
+
+game (
+	name "K-1 Revenge (SLUS-00766)"
+	description "K-1 Revenge (SLUS-00766)"
+	rom ( name "K-1 Revenge (SLUS-00766) (Bonus Characters And All Experience Points).psx" size 8246 crc 0x68509e9b sha1 82457a9f7377f6b76317e1f7f7df05953cfb2a3b )
+)
+
+game (
+	name "Kagero Deception 2 (SLUS-00677)"
+	description "Kagero Deception 2 (SLUS-00677)"
+	rom ( name "Kagero Deception 2 (SLUS-00677) (Game Completed Four Times With Four Different Endings; All Traps Available).psx" size 8246 crc 0x70ab14f0 sha1 9b5b21e1502ff6038d2d0a88ecc154e95615a56c )
+	rom ( name "Kagero Deception 2 (SLUS-00677) (Start On Second Game After Completion Of First Game With All Perfect Genocides; New Traps Available).psx" size 8246 crc 0x7a41f3c1 sha1 8aaa68ecb71222fbc8af42b3c14a56723f196564 )
+)
+
+game (
+	name "Kartia (SLUS-00631)"
+	description "Kartia (SLUS-00631)"
+	rom ( name "Kartia (SLUS-00631) (All Weapons And Items Up To Chapter 10).psx" size 16438 crc 0x12a235d6 sha1 220e3d1e73747c0d0c98897ba0c84ab95c9b6660 )
+	rom ( name "Kartia (SLUS-00631) (View Male Hero's Ending By Beating The Boss In The Final Battle).psx" size 16438 crc 0xf1937fd0 sha1 1998c0cb7a0ad0ee028d3bcfb40c5dc2374257ee )
+)
+
+game (
+	name "Kensei - Sacred Fist (SLUS-00600)"
+	description "Kensei - Sacred Fist (SLUS-00600)"
+	rom ( name "Kensei - Sacred Fist (SLUS-00600) (All Characters And Extra Mode).psx" size 8246 crc 0x65c0ff2f sha1 38e15b4f3d3182083701ee13f1423a7ddd21481c )
+	rom ( name "Kensei - Sacred Fist (SLUS-00600) (All Characters And Extra Running Bugi Mode Unlocked).psx" size 8246 crc 0xa3b893fe sha1 977df8e79963c2f32ee8d255ed1f31ee8d916498 )
+)
+
+game (
+	name "Killer Loop (SLUS-00938)"
+	description "Killer Loop (SLUS-00938)"
+	rom ( name "Killer Loop (SLUS-00938) (All Ships, Tracks, And Modes Unlocked).psx" size 8246 crc 0x183a217d sha1 8195c8824928d5f1bf85c94457c808b64c574230 )
+)
+
+game (
+	name "King Of Fighters '96 (SLPM-86084)"
+	description "King Of Fighters '96 (SLPM-86084)"
+	rom ( name "King Of Fighters '96 (SLPM-86084) (Can Fight Bosses Immediately In Single Player Modes).psx" size 8246 crc 0x9b80cf94 sha1 f8e2e380f7b4e18204d4e6d39710f1b46745df17 )
+)
+
+game (
+	name "King's Field (SLUS-00158)"
+	description "King's Field (SLUS-00158)"
+	rom ( name "King's Field (SLUS-00158) (Level 55, 160 Magic, All Swords, Including Moonlight, Ready For Final Boss).psx" size 16438 crc 0x050b151f sha1 01300d1e1215fec0a3ffaa7006f62c5e5ed8e521 )
+)
+
+game (
+	name "King's Field 2 (SLUS-00255)"
+	description "King's Field 2 (SLUS-00255)"
+	rom ( name "King's Field 2 (SLUS-00255) (11484 Experience Points, Level 21 On Save Number 4).psx" size 24630 crc 0xaa3f9d7b sha1 fbdfed47ce9c357bd9119d8341a092c2fee47eff )
+)
+
+game (
+	name "Klonoa - Door To Phantomile (SLUS-00585)"
+	description "Klonoa - Door To Phantomile (SLUS-00585)"
+	rom ( name "Klonoa - Door To Phantomile (SLUS-00585) (All Phantomilans, Music Box Unlocked, All Levels Including Bonus Unlocked).psx" size 8246 crc 0x2df8ba4d sha1 5d5d37756fef7ffefdb80c65dd428d937ea81ac4 )
+)
+
+game (
+	name "Knockout Kings (SLUS-00737)"
+	description "Knockout Kings (SLUS-00737)"
+	rom ( name "Knockout Kings (SLUS-00737) (Mike Tyson Available).psx" size 8246 crc 0xc0f01c71 sha1 58eeeeef3856f98dd71837d8977ecf9c2a758e2c )
+	rom ( name "Knockout Kings (SLUS-00737) (Rocky Balboa Available).psx" size 8246 crc 0x7fae232e sha1 2eac61d02393ae7ac6f90716668941f68abad4ad )
+)
+
+game (
+	name "Legacy Of Kain - Soul Reaver (SLUS-00708)"
+	description "Legacy Of Kain - Soul Reaver (SLUS-00708)"
+	rom ( name "Legacy Of Kain - Soul Reaver (SLUS-00708) (Four Saves).psx" size 24630 crc 0x6bc04118 sha1 2e809e5bab37199552c4994881d704c37e38f04e )
+)
+
+game (
+	name "Lightning Legend (SLPM-86015)"
+	description "Lightning Legend (SLPM-86015)"
+	rom ( name "Lightning Legend (SLPM-86015) (All Bosses And Costumes Unlocked).psx" size 8246 crc 0x0dc61983 sha1 ead41230fd289ff2265cfbbc12eac9afd71febbe )
+)
+
+game (
+	name "Loaded (SLUS-00076)"
+	description "Loaded (SLUS-00076)"
+	rom ( name "Loaded (SLUS-00076) (Unlock All Menu Cheats).psx" size 8246 crc 0x18a97cfc sha1 ef01a2ead8fafc00d1b75a109a5aab17fe50116d )
+)
+
+game (
+	name "Lode Runner (SLUS-00557)"
+	description "Lode Runner (SLUS-00557)"
+	rom ( name "Lode Runner (SLUS-00557) (Custom Level - L.R. World).psx" size 8246 crc 0xcbbb51f7 sha1 22e482e96bbd72b2870f3f1dc4a4ab604ef8cc8f )
+	rom ( name "Lode Runner (SLUS-00557) (Custom Level - Prison).psx" size 8246 crc 0x0d8c2d53 sha1 e10e6bac5c4d1570c7982d5f6e077a3296ac7095 )
+	rom ( name "Lode Runner (SLUS-00557) (Custom Level - Race).psx" size 8246 crc 0xfb80115d sha1 3dfbc5f32d381186e9b929525b80275abe767773 )
+	rom ( name "Lode Runner (SLUS-00557) (Custom Level - Tough).psx" size 8246 crc 0x1370bb30 sha1 afc3287656f3f2d1a4f98c00c013341a11fc8f3a )
+	rom ( name "Lode Runner (SLUS-00557) (Last Level Unlocked).psx" size 8246 crc 0x2cd84877 sha1 ec7122201fefe4843a7e71b40de6bdb634d66937 )
+)
+
+game (
+	name "Lunar (SLUS-00628)"
+	description "Lunar (SLUS-00628)"
+	rom ( name "Lunar (SLUS-00628) (Start Game At Max Level - Character #1).psx" size 8246 crc 0x3ac70e61 sha1 6a32dc73a09f24cb880098b4d5c76e6341371b24 )
+	rom ( name "Lunar (SLUS-00628) (Start Game At Max Level - Character #2).psx" size 8246 crc 0xdf7fb2e9 sha1 c25be3d45d3edaeafc718f7bfe2d7c5e6e62ab2f )
+	rom ( name "Lunar (SLUS-00628) (Start Game At Max Level - Character #3).psx" size 8246 crc 0x0b4f1976 sha1 38abe3f4bf65f6d5b4904b8f115ca9f09abdf945 )
+)
+
+game (
+	name "Macross - Digital Mission VF-X (SLPS-00386)"
+	description "Macross - Digital Mission VF-X (SLPS-00386)"
+	rom ( name "Macross - Digital Mission VF-X (SLPS-00386) (Start At Final Level With All Valkyries).psx" size 8246 crc 0x3cf8b67f sha1 db7be957777c32f910021b71f4f663da9fb74fae )
+)
+
+game (
+	name "Madden NFL '99 (SLUS-00729)"
+	description "Madden NFL '99 (SLUS-00729)"
+	rom ( name "Madden NFL '99 (SLUS-00729) (Rosters Status Updated To 12-26-98 Including Missing Players).psx" size 8246 crc 0x50950041 sha1 e5b7242e382398c37b5cbc9520f6fdb51c366a99 )
+)
+
+game (
+	name "Marvel Super Heroes (SLUS-00257)"
+	description "Marvel Super Heroes (SLUS-00257)"
+	rom ( name "Marvel Super Heroes (SLUS-00257) (Dr. Doom And Thanos Unlocked On Shortcut Menu).psx" size 8246 crc 0x76986bbd sha1 3ab2f584eff468a5d8a1b193d3434f073c9b003e )
+)
+
+game (
+	name "Marvel Super Heroes Vs Street Fighter (SLUS-00793)"
+	description "Marvel Super Heroes Vs Street Fighter (SLUS-00793)"
+	rom ( name "Marvel Super Heroes Vs Street Fighter (SLUS-00793) (All Bonus Characters And Gallery Unlocked).psx" size 8246 crc 0x6fea071b sha1 0aadb0e6d9d893b710693373eace133f5c550e4c )
+)
+
+game (
+	name "Mass Destruction (SLUS-00462)"
+	description "Mass Destruction (SLUS-00462)"
+	rom ( name "Mass Destruction (SLUS-00462) (Start At Level 3 In Manta Mission).psx" size 8246 crc 0xfffdceba sha1 da9f56df16ce22a1a8390b3a98963f6f37169775 )
+)
+
+game (
+	name "MDK (SLUS-00426)"
+	description "MDK (SLUS-00426)"
+	rom ( name "MDK (SLUS-00426) (Finished).psx" size 8246 crc 0x02c4a7e2 sha1 e308c4af87630c9c571e1fa15564531e0818cd83 )
+	rom ( name "MDK (SLUS-00426) (Game Completed).psx" size 8246 crc 0x55b733d6 sha1 f1077d7b35614017db487967647570001d1538c5 )
+)
+
+game (
+	name "Mechwarrior 2 (SLUS-00401)"
+	description "Mechwarrior 2 (SLUS-00401)"
+	rom ( name "Mechwarrior 2 (SLUS-00401) (All Missions Unlocked) [a1].psx" size 8246 crc 0x13b57284 sha1 f50f4eaaf96c9bf1da88c74d20e835b7205db235 )
+	rom ( name "Mechwarrior 2 (SLUS-00401) (All Missions Unlocked).psx" size 8246 crc 0x2623ec7c sha1 1af4f7e1b223270db53b9ffacb379727b74b5016 )
+)
+
+game (
+	name "Medal Of Honor (SLUS-00974)"
+	description "Medal Of Honor (SLUS-00974)"
+	rom ( name "Medal Of Honor (SLUS-00974) (99%).psx" size 8246 crc 0x2d810e88 sha1 72b6c7f9e4793183549fb0314df1ed5812e6fa80 )
+)
+
+game (
+	name "MediEvil (SCES-00311)"
+	description "MediEvil (SCES-00311)"
+	rom ( name "MediEvil (SCES-00311) (Start At Level 4).psx" size 8246 crc 0xfe150b10 sha1 73cbbd0685748e560b05f63ae7e6c9bb4f938a1b )
+)
+
+game (
+	name "MediEvil (SCUS-94227)"
+	description "MediEvil (SCUS-94227)"
+	rom ( name "MediEvil (SCUS-94227) (Start At Final Battle With Zarok; All Chalices And Items Found; Full Inventory).psx" size 8246 crc 0x6b9ab63b sha1 9c8d67d714182d13d76b2673543f34a3ecdc4d24 )
+	rom ( name "MediEvil (SCUS-94227) (Start At Final Battle).psx" size 8246 crc 0x8de88551 sha1 eaa94efb92c4bc804570911a32f99ee9fc122810 )
+	rom ( name "MediEvil (SCUS-94227) (Start At First Save Point With Magic Bow, Magic Sword, Silver Shield, $10,000).psx" size 8246 crc 0x8a436657 sha1 2f1cac1610624f976e3048d33f2abe9b44118b97 )
+)
+
+game (
+	name "Mega Man Legends (SLUS-00603)"
+	description "Mega Man Legends (SLUS-00603)"
+	rom ( name "Mega Man Legends (SLUS-00603) (All Weapons Powered Up).psx" size 8246 crc 0x85ac40e4 sha1 ad101d8bafd0e08dfbfa1ae7ca5b5e18c2aebb82 )
+	rom ( name "Mega Man Legends (SLUS-00603) (Begin At Town Hall With All Weapons Powered Up, Ready For Final Boss).psx" size 8246 crc 0xf8043743 sha1 aefa723cbee83baa18aaa7d22aa8cb20a66d25f5 )
+)
+
+game (
+	name "Megaman 8 (SLUS-00453)"
+	description "Megaman 8 (SLUS-00453)"
+	rom ( name "Megaman 8 (SLUS-00453) (First 8 Stages Beaten).psx" size 8246 crc 0x41b8e9e6 sha1 3c18fcf78ee7426682e7c1fa6771cd54dc332b5c )
+	rom ( name "Megaman 8 (SLUS-00453) (Start At Second Set Of Opponents).psx" size 8246 crc 0xa032652b sha1 00d5e2a0c023e90c3d4e1369c7d73c7c2788b185 )
+)
+
+game (
+	name "Megaman X4 (SLUS-00561)"
+	description "Megaman X4 (SLUS-00561)"
+	rom ( name "Megaman X4 (SLUS-00561) (All Weapons).psx" size 8246 crc 0x098de159 sha1 0b4ab25260dd4f48ce7e425008ee1796c42c29b8 )
+)
+
+game (
+	name "Metal Gear Solid (SLUS-00594)"
+	description "Metal Gear Solid (SLUS-00594)"
+	rom ( name "Metal Gear Solid (SLUS-00594) (All Modes In Vr Training Unlocked; All First Place Scores In Time Trial Mode).psx" size 8246 crc 0xdc8c03b5 sha1 6d9c654a6ab4f483053597c8b40c1fbe9f57dd37 )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Easy - 00.00 - Dock).psx" size 8246 crc 0xc32db498 sha1 897bfc0ce3569743b65ff4efd3bee61d938392cc )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Easy - 00.44 - Nuke Building 1).psx" size 8246 crc 0xe0f141a1 sha1 851ceca27827a83982195124ade4b871aa6aea96 )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Hard - 00.00 - Dock).psx" size 8246 crc 0x0c037370 sha1 34004ab66c599add56381e5c5ff065b0ba7cabcc )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Normal - 00.00 - Dock).psx" size 8246 crc 0xaffaf54a sha1 4b71214f453b8d2ebea1a3a30e6871380b772c09 )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Normal - 00.04 - Heliport).psx" size 8246 crc 0x8ff83da0 sha1 ee1dba93c4aced1d1991b143a3fd0177b6169203 )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Normal - 00.05 - Heliport).psx" size 8246 crc 0xfc851cad sha1 20a422895d415566f39f233cab90144247962d50 )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Normal - 12.34 - Supply Rte).psx" size 8246 crc 0xe589255d sha1 a0053c043a0f3266123330b52c025c8f5c16477d )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Normal Difficulty Level; Start With Unlim Health, Unlim Air, Unlim Ammo, Numerous Weapons, Ammo & Items).psx" size 8246 crc 0xdc8c03b5 sha1 6d9c654a6ab4f483053597c8b40c1fbe9f57dd37 )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Start At Beginning Of Game; Snake's Wearing A Tuxedo).psx" size 8246 crc 0xb5f7704d sha1 fa1d37e3afa7c1ff9448cd323d2fa53866e5f077 )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Start At End Of Game - Meryl's Ending) [a1].psx" size 8246 crc 0xbdc1fe76 sha1 c16650c60b815155c3def5b9873861abee738b4c )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Start At End Of Game - Meryl's Ending).psx" size 8246 crc 0x436710c1 sha1 0f281ae48496b27ffcb0aaf79ab8a1531d5652dc )
+	rom ( name "Metal Gear Solid (SLUS-00594) (Start At End Of Game - Otacon's Ending).psx" size 8246 crc 0xcf112bb3 sha1 7c0097b7e39806faf367258186a5bf80a5a30c09 )
+)
+
+game (
+	name "Metal Gear Solid VR Missions (SLUS-00957)"
+	description "Metal Gear Solid VR Missions (SLUS-00957)"
+	rom ( name "Metal Gear Solid VR Missions (SLUS-00957) (100% Complete).psx" size 8246 crc 0xfdc0fe50 sha1 2b7864317d91b49007321c43750a064605cc7752 )
+)
+
+game (
+	name "Metal Slug (SLPS-00950)"
+	description "Metal Slug (SLPS-00950)"
+	rom ( name "Metal Slug (SLPS-00950) (All Missions And 'Another Story' Option Unlocked).psx" size 8246 crc 0x26a3ff88 sha1 0b13530c4e6ce5e00dda921733974bcfa25dc185 )
+)
+
+game (
+	name "Micro Machines V3 (SLUS-00559)"
+	description "Micro Machines V3 (SLUS-00559)"
+	rom ( name "Micro Machines V3 (SLUS-00559) (All Cars And Gold Medals Unlocked).psx" size 8246 crc 0x8a49e95e sha1 864318b54a14ff9104740c8468498917ac32df46 )
+)
+
+game (
+	name "Minna No Golf (SCPS-10042)"
+	description "Minna No Golf (SCPS-10042)"
+	rom ( name "Minna No Golf (SCPS-10042) (All Golfers And Courses Unlocked).psx" size 24630 crc 0x66fc5df3 sha1 9a75e835e58de4d05a296cdb327e004e887004d0 )
+)
+
+game (
+	name "MLB '99 (SCUS-94233)"
+	description "MLB '99 (SCUS-94233)"
+	rom ( name "MLB '99 (SCUS-94233) (Boston Red Sox Season; Most Players With High Batting Averages).psx" size 32822 crc 0x0bc77ad9 sha1 828952ba20905cdcf4f3f8a767e815bf72b0625e )
+	rom ( name "MLB '99 (SCUS-94233) (Updated Rosters As Of 1-22-99).psx" size 8246 crc 0xd6592183 sha1 010696917e9154b5c439cbe896d639b699556bd9 )
+)
+
+game (
+	name "Monopoly (SLUS-00507)"
+	description "Monopoly (SLUS-00507)"
+	rom ( name "Monopoly (SLUS-00507) (Start With $65,535).psx" size 8246 crc 0xdfce0c0c sha1 a64144c6be95db32f397a4880f9cd90b290a5712 )
+)
+
+game (
+	name "Monster Rancher (SLUS-00568)"
+	description "Monster Rancher (SLUS-00568)"
+	rom ( name "Monster Rancher (SLUS-00568) ( - Unknown - ).psx" size 8246 crc 0xe4e3d450 sha1 3a98bcc2e015ec0a69033dc6fd256de2d8001868 )
+)
+
+game (
+	name "Mortal Kombat 4 (SLUS-00605)"
+	description "Mortal Kombat 4 (SLUS-00605)"
+	rom ( name "Mortal Kombat 4 (SLUS-00605) (All Endings Open).psx" size 8246 crc 0x488f0d58 sha1 7a576dcfb9fade35e1b3e4661e5c701c7fd33128 )
+	rom ( name "Mortal Kombat 4 (SLUS-00605) (Noob Saibot, Goro, And All Endings Unlocked).psx" size 8246 crc 0x9f89872d sha1 ca9422be8f75bc5eea4d4799fc1c43c7b1132668 )
+)
+
+game (
+	name "Mortal Kombat Mythologies - Sub-Zero (SLUS-00476)"
+	description "Mortal Kombat Mythologies - Sub-Zero (SLUS-00476)"
+	rom ( name "Mortal Kombat Mythologies - Sub-Zero (SLUS-00476) (All Levels Up To Shinnok's Tower Unlocked).psx" size 8246 crc 0x0d9a2f8b sha1 cdb2af5419fceadf1aaa012bcaada323baa4e674 )
+)
+
+game (
+	name "Moto Racer (SLUS-00498)"
+	description "Moto Racer (SLUS-00498)"
+	rom ( name "Moto Racer (SLUS-00498) (All Tracks, Bikes, Levels, Reversed Mode, And Rocket Bikes Unlocked).psx" size 8246 crc 0xd6715c08 sha1 124c8d2bc492e5a233e6997183888c0a8906d73e )
+)
+
+game (
+	name "Moto Racer 2 (SLUS-00738)"
+	description "Moto Racer 2 (SLUS-00738)"
+	rom ( name "Moto Racer 2 (SLUS-00738) (Championship Completed, Eight Custom Tracks).psx" size 8246 crc 0x068b50de sha1 964be1987d29806372f85e5546d0eaf86f888dfe )
+)
+
+game (
+	name "Motor Toon Grand Prix (SCUS-94355)"
+	description "Motor Toon Grand Prix (SCUS-94355)"
+	rom ( name "Motor Toon Grand Prix (SCUS-94355) (All Extra Features Unlocked) [a1].psx" size 8246 crc 0x4b4f1dde sha1 e2e6843b88000588aab8afb0a32c8c2a564b4d74 )
+	rom ( name "Motor Toon Grand Prix (SCUS-94355) (All Extra Features Unlocked).psx" size 8246 crc 0x85915f46 sha1 00c80ff345084c768e0a8f1121f4189be222df8a )
+	rom ( name "Motor Toon Grand Prix (SCUS-94355) (All Secrets Available).psx" size 8246 crc 0xf2e5bf05 sha1 11c35cfd97be19f54daed21cc97f9141177c1e00 )
+)
+
+game (
+	name "Motor Toon Grand Prix 2 (SCPS-10018)"
+	description "Motor Toon Grand Prix 2 (SCPS-10018)"
+	rom ( name "Motor Toon Grand Prix 2 (SCPS-10018) (All Extra Features Unlocked).psx" size 8246 crc 0x3dcbe93c sha1 4039abdb48962f97b095c2c2c7a4c5b00f69a807 )
+)
+
+game (
+	name "MTV Sports Snowboarding (SLUS-00990)"
+	description "MTV Sports Snowboarding (SLUS-00990)"
+	rom ( name "MTV Sports Snowboarding (SLUS-00990) (Extra Characters, Levels And Everyone Qualified).psx" size 8246 crc 0x501508b5 sha1 5379aca6f5206eb4ed69cee7e3f1b354baf925a6 )
+)
+
+game (
+	name "N2O - Nitrous Oxide (SLUS-00637)"
+	description "N2O - Nitrous Oxide (SLUS-00637)"
+	rom ( name "N2O - Nitrous Oxide (SLUS-00637) (All Levels And Fifth Ship Unlocked).psx" size 8246 crc 0x9e5a2095 sha1 8b463e6e5e35b862a84f002cc194aa269d00bff6 )
+)
+
+game (
+	name "Nascar Racing '99 (SLUS-00740)"
+	description "Nascar Racing '99 (SLUS-00740)"
+	rom ( name "Nascar Racing '99 (SLUS-00740) (All Classic Drivers Unlocked).psx" size 8246 crc 0xb9a3ca9c sha1 aaee237ae2fc5be641d03577589c082a8f895a6b )
+)
+
+game (
+	name "NBA Hangtime (SLUS-00329)"
+	description "NBA Hangtime (SLUS-00329)"
+	rom ( name "NBA Hangtime (SLUS-00329) (Powered-Up Players).psx" size 8246 crc 0x2d558fe3 sha1 b3a3c945eba303d31768712c64f37ce5dfde7e48 )
+)
+
+game (
+	name "NBA Live '97 (SLUS-00267)"
+	description "NBA Live '97 (SLUS-00267)"
+	rom ( name "NBA Live '97 (SLUS-00267) (Contains The Updated February Trade Deadline Rosters).psx" size 8246 crc 0x45c32545 sha1 854d61281f4f7df28768d528717b75b97fe705e9 )
+)
+
+game (
+	name "NBA Live '98 (SLUS-00523)"
+	description "NBA Live '98 (SLUS-00523)"
+	rom ( name "NBA Live '98 (SLUS-00523) (All-Star Team Selectable).psx" size 16438 crc 0xf08d649e sha1 d19dbd34b6508b9a0f1e4fdbf416d53b96641308 )
+	rom ( name "NBA Live '98 (SLUS-00523) (Secrets Menu Unlocked And Updated Rosters).psx" size 16438 crc 0xfc4299c4 sha1 f9e3dd8c3ee35d9f4a1838d4a24368e14a5f31a1 )
+)
+
+game (
+	name "NBA Live '99 (SLUS-00736)"
+	description "NBA Live '99 (SLUS-00736)"
+	rom ( name "NBA Live '99 (SLUS-00736) (Roster - First Round Draft Picks, Greatest Players, Four Custom Created Teams).psx" size 8246 crc 0xdd8985c1 sha1 71b7c09519053a315891569b200e3359b7b000ee )
+	rom ( name "NBA Live '99 (SLUS-00736) (Roster - Second Round Draft Picks, Greatest Players, Four Custom Created Teams).psx" size 8246 crc 0x165ae76f sha1 0dab7c60481b18f651db527612f1eb5b893d668f )
+	rom ( name "NBA Live '99 (SLUS-00736) (Updated Rosters Including The Trade Between New Jersey, Milwaukee, And Minnesota; Custom Created College Teams).psx" size 8246 crc 0x3606f8e7 sha1 fecb29475dae9a26987eb21e5b47f2488dc12a1b )
+	rom ( name "NBA Live '99 (SLUS-00736) (Updated Rosters).psx" size 8246 crc 0x80edd972 sha1 dd19b48939cb8e4d2b939b383f11c16fcb8cc041 )
+)
+
+game (
+	name "NBA Live 2k (SLUS-00998)"
+	description "NBA Live 2k (SLUS-00998)"
+	rom ( name "NBA Live 2k (SLUS-00998) (All The Legends Unlocked).psx" size 8246 crc 0x82296f79 sha1 fa5f179ef91ecd27a93245d01e27f57ced20bcf5 )
+)
+
+game (
+	name "NCAA Football '99 (SLUS-00688)"
+	description "NCAA Football '99 (SLUS-00688)"
+	rom ( name "NCAA Football '99 (SLUS-00688) (Purdue Names).psx" size 8246 crc 0x86f7f0b3 sha1 0e7be56fa52a05c637c0dc9171f04ec1aa22bb0a )
+	rom ( name "NCAA Football '99 (SLUS-00688) (Updated Roster For Florida State, Tennessee, Ohio State, Wisconsin, And Arizona).psx" size 8246 crc 0xbbad3f14 sha1 686337175881d26d8d9573cf3112b14e6a28a437 )
+	rom ( name "NCAA Football '99 (SLUS-00688) (Updated Roster For Kansas State).psx" size 8246 crc 0xaf52b690 sha1 cf4a200e0ddf1b4d3154935dc5639e72c2d63f93 )
+	rom ( name "NCAA Football '99 (SLUS-00688) (Updated Roster For Purdue).psx" size 8246 crc 0x55290b32 sha1 059fc00f3e3ade66f08b5ab26474dc55328c91d5 )
+)
+
+game (
+	name "NCAA Football 2000 (SLUS-00932)"
+	description "NCAA Football 2000 (SLUS-00932)"
+	rom ( name "NCAA Football 2000 (SLUS-00932) (All 12 Sec Teams).psx" size 8246 crc 0x695fd988 sha1 7d04c6565a8bdad183103f3216b3c3b8f3358aad )
+	rom ( name "NCAA Football 2000 (SLUS-00932) (All Pac-10 Team Rosters).psx" size 8246 crc 0xfd380957 sha1 1c12004fe433d90727ed794b2022b34f65b25e35 )
+	rom ( name "NCAA Football 2000 (SLUS-00932) (Interact Team).psx" size 8246 crc 0x35abb7ac sha1 54747fa84395d86f5e9c5fb0fcd4755d2cd259eb )
+)
+
+game (
+	name "NCAA Gamebreaker '99 (SCUS-94246)"
+	description "NCAA Gamebreaker '99 (SCUS-94246)"
+	rom ( name "NCAA Gamebreaker '99 (SCUS-94246) (Super Florida State Team).psx" size 8246 crc 0x752ffd70 sha1 33c21d668a5d68fdd0e559b9d939bfd76f315bcf )
+)
+
+game (
+	name "Need For Speed 2 (SLUS-00276)"
+	description "Need For Speed 2 (SLUS-00276)"
+	rom ( name "Need For Speed 2 (SLUS-00276) (Ford Indigo And Bonus Tracks Unlocked).psx" size 8246 crc 0xe3e9922d sha1 d558c9bd7283c94c8ec00b630548c7d28dfc510b )
+)
+
+game (
+	name "Need For Speed 3 - Hot Pursuit (SLUS-00620)"
+	description "Need For Speed 3 - Hot Pursuit (SLUS-00620)"
+	rom ( name "Need For Speed 3 - Hot Pursuit (SLUS-00620) (All Cars And Tracks Unlocked) [a1].psx" size 16438 crc 0xd1f22fb7 sha1 9389c33733a2c3cbc5ecaeafa6fc150fd17f529b )
+	rom ( name "Need For Speed 3 - Hot Pursuit (SLUS-00620) (All Cars And Tracks Unlocked).psx" size 16438 crc 0xae76deb4 sha1 91715ab15939091e9acff6754984db710743af7c )
+)
+
+game (
+	name "Need For Speed 4 - High Stakes (SLUS-00826)"
+	description "Need For Speed 4 - High Stakes (SLUS-00826)"
+	rom ( name "Need For Speed 4 - High Stakes (SLUS-00826) (All Cars Fully Upgraded, All Pursuit Cars. Jailbird 2000 Police Chopper. All Tracks Except The 3 Raceways, $700,000, Two Secret Sound Tracks).psx" size 8246 crc 0x7a25cca0 sha1 deede5c69c2eaf46c0726b7b27e4debf2c16d21d )
+	rom ( name "Need For Speed 4 - High Stakes (SLUS-00826) (All Regular Cars And Special Cop Cars In Hot Pursuit And Helicopter In Test Drive).psx" size 8246 crc 0xdb229ca3 sha1 720a66a5afea21a83ab1af9e1cb545eb043a8ace )
+	rom ( name "Need For Speed 4 - High Stakes (SLUS-00826) (All Trophies Won, All Tracks Unlocked).psx" size 8246 crc 0x5ebdd7a3 sha1 88022683be65f930a449cf4dd4234aefa8c47a9e )
+	rom ( name "Need For Speed 4 - High Stakes (SLUS-00826) (Gold Trophies In All Tournament And Special Events; All Cars And Tracks In All Modes Unlocked).psx" size 8246 crc 0x6386c8ea sha1 f7ce40813e7b39a65a3c535d292709c79e610af2 )
+)
+
+game (
+	name "New Japan Pro Wrestling - Toukon Retsuden 3 (SLPS-01314)"
+	description "New Japan Pro Wrestling - Toukon Retsuden 3 (SLPS-01314)"
+	rom ( name "New Japan Pro Wrestling - Toukon Retsuden 3 (SLPS-01314) (All Hidden Characters Unlocked; Extra Costumes And Edit Pages For Character Creation).psx" size 24630 crc 0x4fa9c11b sha1 f2c0b4b44d7100bf13e5e3cdaf954999cecf4026 )
+)
+
+game (
+	name "NFL Blitz (SLUS-00617)"
+	description "NFL Blitz (SLUS-00617)"
+	rom ( name "NFL Blitz (SLUS-00617) (Denver Brocos).psx" size 41014 crc 0x3fb52fa6 sha1 72d85a9c5c63fd7da6c9ea3c856492dc5ff66cac )
+	rom ( name "NFL Blitz (SLUS-00617) (Start Season Mode With Denver Broncos At 10-2).psx" size 41014 crc 0x634d2eed sha1 847aad79e6ad52a74490798516a435b93e0b43c2 )
+)
+
+game (
+	name "NFL Gameday '99 (SCUS-94234)"
+	description "NFL Gameday '99 (SCUS-94234)"
+	rom ( name "NFL Gameday '99 (SCUS-94234) (Dallas Pro Bowl).psx" size 24630 crc 0xd43796ae sha1 324a901377cacb31ac0c16cfb736897cfa876313 )
+	rom ( name "NFL Gameday '99 (SCUS-94234) (Superbowl XXXIII With The Dallas Cowboys (14-2) Vs. The New England Patriots; Pro Bowl Available).psx" size 24630 crc 0x8c6b51bc sha1 5fe9d5c167338c9fe64855d3170cedcded7bea44 )
+)
+
+game (
+	name "NFL Xtreme (SCUS-94245)"
+	description "NFL Xtreme (SCUS-94245)"
+	rom ( name "NFL Xtreme (SCUS-94245) (Perfect Team; All Players Have 114 Overall Rating).psx" size 41014 crc 0x5a45eb58 sha1 9f288c6f8d36fd43919a4b77b5d5f7a97ef95425 )
+)
+
+game (
+	name "NHL '98 (SLUS-00735)"
+	description "NHL '98 (SLUS-00735)"
+	rom ( name "NHL '98 (SLUS-00735) (Custom Teams).psx" size 16438 crc 0x70bf9218 sha1 34a7b771d2076896cd8678c30592be1bc54ebfea )
+)
+
+game (
+	name "NHL '99 (SLUS-00735)"
+	description "NHL '99 (SLUS-00735)"
+	rom ( name "NHL '99 (SLUS-00735) (Rosters As Of 4-19-99).psx" size 16438 crc 0x9df326d1 sha1 cd07d10b7aec21a2d845d5e85f9b9f9b0cd34f5c )
+	rom ( name "NHL '99 (SLUS-00735) (Rosters Status Updated To 1-25-99).psx" size 16438 crc 0x635f05e9 sha1 53310439c22723ed2db662bfa0074aa9c30ea8e3 )
+)
+
+game (
+	name "NHL 2000 (SLUS-00965)"
+	description "NHL 2000 (SLUS-00965)"
+	rom ( name "NHL 2000 (SLUS-00965) (Roster Updated To 11-5-99 With All Players Created Including Rookies. Also An Ea Blades Rookie Team.).psx" size 16438 crc 0xb1d92757 sha1 c94c0809bf7b803e84260ae22a2afd6e3463d3d1 )
+	rom ( name "NHL 2000 (SLUS-00965) (Roster Updates).psx" size 16438 crc 0x83760f1b sha1 58bd747da0b02ed987fcae354aaf240254765d33 )
+)
+
+game (
+	name "NHL Faceoff '99 (SCUS-94235)"
+	description "NHL Faceoff '99 (SCUS-94235)"
+	rom ( name "NHL Faceoff '99 (SCUS-94235) (Rosters Status Updated To 2-5-99).psx" size 41014 crc 0xfb474707 sha1 f8b9682ab6d5fb0468b29f08bbe70280b3551fdc )
+)
+
+game (
+	name "Nightmare Creatures (SLUS-00582)"
+	description "Nightmare Creatures (SLUS-00582)"
+	rom ( name "Nightmare Creatures (SLUS-00582) (All Levels And Special Features Unlocked).psx" size 8246 crc 0x819d8a34 sha1 6a5cce48f5d76d2f77b914a844508dcbc3b9a75d )
+)
+
+game (
+	name "Ninja - Shadow Of Darkness (SLUS-00435)"
+	description "Ninja - Shadow Of Darkness (SLUS-00435)"
+	rom ( name "Ninja - Shadow Of Darkness (SLUS-00435) (Start At Level 2 With Silver Key, Gold Key, Max Power-Up, Kitana, Ultimate Sword, And Lots Of Cash).psx" size 8246 crc 0x5230093a sha1 b4962dd734256bceca4c8bee4d303266307569b6 )
+)
+
+game (
+	name "No Fear - Downhill Mountain Bike Racing (SLUS-01000)"
+	description "No Fear - Downhill Mountain Bike Racing (SLUS-01000)"
+	rom ( name "No Fear - Downhill Mountain Bike Racing (SLUS-01000) (All Bike Parts Unlocked, All Characters, All Levels,+ Modes).psx" size 8246 crc 0x6e2e5643 sha1 2249996cd478d93fd2d746194906129cadc4318a )
+)
+
+game (
+	name "Nuclear Strike (SLUS-00518)"
+	description "Nuclear Strike (SLUS-00518)"
+	rom ( name "Nuclear Strike (SLUS-00518) (Start At Last Level).psx" size 8246 crc 0xa56f5cb6 sha1 6fd6c5761e6f44fc3fa0741b512852b993aa6d95 )
+)
+
+game (
+	name "Oddworld - Abe's Oddysee (SLUS-00190)"
+	description "Oddworld - Abe's Oddysee (SLUS-00190)"
+	rom ( name "Oddworld - Abe's Oddysee (SLUS-00190) (At Stockyard Escape With 1.06.21 Elapsed).psx" size 8246 crc 0xc2c348fd sha1 7d5764f032982d8bb0b53ff98fb7ec96f5590a0f )
+	rom ( name "Oddworld - Abe's Oddysee (SLUS-00190) (Good Ending).psx" size 8246 crc 0x154cb147 sha1 b98a9e44f9bc0e3b36805615668ba78055c21a96 )
+	rom ( name "Oddworld - Abe's Oddysee (SLUS-00190) (Last Level Unlocked).psx" size 8246 crc 0x12387d70 sha1 19581876a8de1b3a6985bd94b3897839d625a0e7 )
+)
+
+game (
+	name "Off-World Interceptor Extreme (SLUS-00020)"
+	description "Off-World Interceptor Extreme (SLUS-00020)"
+	rom ( name "Off-World Interceptor Extreme (SLUS-00020) (Start At World 3 With $870900, 30 Nitros, And Extras).psx" size 8246 crc 0x6af398b8 sha1 094e2960260e61fbde71a5e1653948190a4edbdf )
+)
+
+game (
+	name "Ogre Battle (SLUS-00467)"
+	description "Ogre Battle (SLUS-00467)"
+	rom ( name "Ogre Battle (SLUS-00467) (All Hidden Items).psx" size 16438 crc 0xac2e2769 sha1 f9fa8019f921589ff8b836075f0166ba627aef7a )
+	rom ( name "Ogre Battle (SLUS-00467) (Start At Final Battle).psx" size 16438 crc 0xf77805e5 sha1 6e774f00c9ab6da39460b8a59e8cc5fb82fe1d35 )
+)
+
+game (
+	name "Omega Boost (SCPS-10020)"
+	description "Omega Boost (SCPS-10020)"
+	rom ( name "Omega Boost (SCPS-10020) (All Bonuses Unlocked).psx" size 8246 crc 0x0f916ec0 sha1 eb577c732946bbc2e83153e32e0de3a896442ad6 )
+)
+
+game (
+	name "Omega Boost (SCUS-94449)"
+	description "Omega Boost (SCUS-94449)"
+	rom ( name "Omega Boost (SCUS-94449) (All Zones And Levels Unlocked In Zone Play Mode).psx" size 8246 crc 0x31123498 sha1 a0d1abab38c14da9473b84bb5c6c5b11deb2b2b5 )
+)
+
+game (
+	name "Overblood (SLUS-00464)"
+	description "Overblood (SLUS-00464)"
+	rom ( name "Overblood (SLUS-00464) (Start At A Later Part Of The Game).psx" size 8246 crc 0x14bf1d0d sha1 169ab6205649c80ab88fa674bf6bd4fcc6e36e66 )
+)
+
+game (
+	name "Parappa Rapper (SCUS-94183)"
+	description "Parappa Rapper (SCUS-94183)"
+	rom ( name "Parappa Rapper (SCUS-94183) (Bonus Level Unlocked).psx" size 8246 crc 0x400bbbcd sha1 b2a32ea6c0cc1f655526a2b347d911c7075a0632 )
+	rom ( name "Parappa Rapper (SCUS-94183) (Bonus Stage Unlocked).psx" size 8246 crc 0x2a55d259 sha1 7621ecd71f5302e48fd6a8dffa9d89b692f2ffd0 )
+)
+
+game (
+	name "Parasite Eve (SLPS-01230)"
+	description "Parasite Eve (SLPS-01230)"
+	rom ( name "Parasite Eve (SLPS-01230) (Ex Mode Unlocked).psx" size 8246 crc 0xbbdaea18 sha1 ea6a4547b084d4fe4c5778741584bdd4353b2d4e )
+	rom ( name "Parasite Eve (SLPS-01230) (Start At Day 6).psx" size 8246 crc 0x36b51eeb sha1 1e83e772895cbb7dc6961907c940494dee5c2dcc )
+)
+
+game (
+	name "Parasite Eve (SLUS-00662)"
+	description "Parasite Eve (SLUS-00662)"
+	rom ( name "Parasite Eve (SLUS-00662) (All Weapons, Ready For Final Boss).psx" size 8246 crc 0xbf2e24e0 sha1 3b1db9c184ee4c86bdecbbbb5b0bb866f32dabe6 )
+	rom ( name "Parasite Eve (SLUS-00662) (Start At Beginning Of Game With Most Abilities Maxed).psx" size 8246 crc 0xa185381a sha1 b1aac62dbfb3ecd349c293aefdc916fe3956c7a2 )
+)
+
+game (
+	name "Peak Performance (SLUS-00400)"
+	description "Peak Performance (SLUS-00400)"
+	rom ( name "Peak Performance (SLUS-00400) (Bus And Scooter Unlocked).psx" size 8246 crc 0xf0020f22 sha1 d240c6d4a70c838b41b7ce512eed027cf13b9c3d )
+)
+
+game (
+	name "Philosoma (SCUS-94403)"
+	description "Philosoma (SCUS-94403)"
+	rom ( name "Philosoma (SCUS-94403) (All Fmv Sequences Unlocked).psx" size 8246 crc 0x201d35b7 sha1 b48f6fb0dd92ca2e9f7bba55f8e52960f99d5bda )
+	rom ( name "Philosoma (SCUS-94403) (View All Cinemas).psx" size 8246 crc 0xb73c92b5 sha1 650c0225714fb94a1c933db1e3210d35c16b144c )
+)
+
+game (
+	name "Pitfall 3D - Beyond The Jungle (SLUS-00254)"
+	description "Pitfall 3D - Beyond The Jungle (SLUS-00254)"
+	rom ( name "Pitfall 3D - Beyond The Jungle (SLUS-00254) (All Levels Unlocked).psx" size 8246 crc 0x47def6c8 sha1 162058c077075a4378481cd11b30eb590ebe953d )
+	rom ( name "Pitfall 3D - Beyond The Jungle (SLUS-00254) (Ready To Face Final Boss, Scourge, With Eight Lives).psx" size 8246 crc 0x075e9a65 sha1 23697fded83806a31187cb5dd13f19d4b662a793 )
+)
+
+game (
+	name "Point Blank (SLUS-00481)"
+	description "Point Blank (SLUS-00481)"
+	rom ( name "Point Blank (SLUS-00481) (All Levels Unlocked).psx" size 8246 crc 0x9a2cd1a1 sha1 c06de357810e60935a3b4d7edecc1553033d98be )
+)
+
+game (
+	name "Pong (SLUS-80889)"
+	description "Pong (SLUS-80889)"
+	rom ( name "Pong (SLUS-80889) (Everything Unlocked).psx" size 8246 crc 0x2bf491c7 sha1 96b65f70d404bd92dfdab6b41344d04bfff1e4a0 )
+)
+
+game (
+	name "Pool Hustler (SLUS-00758)"
+	description "Pool Hustler (SLUS-00758)"
+	rom ( name "Pool Hustler (SLUS-00758) (All Stages, Two Special Cues Unlocked; Story Mode And Trick Shot Mode Completed; $55,000).psx" size 8246 crc 0x194402d6 sha1 e3b7f695b97582a631a85539503a48fc4f41e047 )
+)
+
+game (
+	name "Porsche Challenge (SCUS-94187)"
+	description "Porsche Challenge (SCUS-94187)"
+	rom ( name "Porsche Challenge (SCUS-94187) (All Tracks And Test Driver Unlocked).psx" size 8246 crc 0x2b41c8ac sha1 b6ce390c66b18c2b3fdccb7a1b4b2fe41b13ac42 )
+)
+
+game (
+	name "Poy Poy (SLUS-00486)"
+	description "Poy Poy (SLUS-00486)"
+	rom ( name "Poy Poy (SLUS-00486) (Extra Money, High-Powered Gloves).psx" size 8246 crc 0xc7ee4dcb sha1 45cfe50745e81349585aa9738e950830d8483f63 )
+)
+
+game (
+	name "Poy Poy 2 (SLPM-86061)"
+	description "Poy Poy 2 (SLPM-86061)"
+	rom ( name "Poy Poy 2 (SLPM-86061) (Bonus Multi-Player Levels, Extra Gloves).psx" size 8246 crc 0x4e0182d9 sha1 6083d2be76d20a36116194eb016da45ccf3b87f1 )
+)
+
+game (
+	name "Project Horned Owl (SCUS-94408)"
+	description "Project Horned Owl (SCUS-94408)"
+	rom ( name "Project Horned Owl (SCUS-94408) (Picture And Cinema Gallery Options Unlocked).psx" size 8246 crc 0xf70b05da sha1 9e13941adb5ba599badfc85702e224ac184c3d39 )
+)
+
+game (
+	name "Psychic Force (SLUS-00419)"
+	description "Psychic Force (SLUS-00419)"
+	rom ( name "Psychic Force (SLUS-00419) (Story Mode Completed).psx" size 8246 crc 0x7a982533 sha1 b5a4c3edab6dbb22d1e497d039a3e5580788b0a3 )
+)
+
+game (
+	name "Punky Skunk (SLUS-00579)"
+	description "Punky Skunk (SLUS-00579)"
+	rom ( name "Punky Skunk (SLUS-00579) (Final Level - 5.25 Green Orbs).psx" size 8246 crc 0x4db80a4e sha1 a88fc9aa686cd9c30087a40281b6c0730dd0aa94 )
+)
+
+game (
+	name "Q-Bert (SLUS-00904)"
+	description "Q-Bert (SLUS-00904)"
+	rom ( name "Q-Bert (SLUS-00904) (All Levels Unlocked In Adventure Mode).psx" size 8246 crc 0xe15f5932 sha1 1465b830b5b272fc5526bad9fe50520e75f21dc3 )
+)
+
+game (
+	name "Q-Boat (SLPS-01436)"
+	description "Q-Boat (SLPS-01436)"
+	rom ( name "Q-Boat (SLPS-01436) (Most Boats Unlocked).psx" size 16438 crc 0xf281afbb sha1 d4190123805563df61ebddbc9fad9bcd6e80871a )
+)
+
+game (
+	name "R-Type Delta (SLUS-00877)"
+	description "R-Type Delta (SLUS-00877)"
+	rom ( name "R-Type Delta (SLUS-00877) (Everything Unlocked Including Pow Armor, Stage Select, And Free Play).psx" size 8246 crc 0x806c9106 sha1 39d777e655748638975c5b1ad5f6e917799c2d37 )
+)
+
+game (
+	name "Radikal Bikers (SLES-01943)"
+	description "Radikal Bikers (SLES-01943)"
+	rom ( name "Radikal Bikers (SLES-01943) (Unknown).psx" size 8246 crc 0xabb9cfb6 sha1 32591fa3e3140613f8dae9bec43250d4fefc715a )
+)
+
+game (
+	name "Rage Racer (SCPS-10018)"
+	description "Rage Racer (SCPS-10018)"
+	rom ( name "Rage Racer (SCPS-10018) (All Cars And All Classes In Both Grand Prix Unlocked).psx" size 8246 crc 0x2e58aa5c sha1 2573c15d4726672a9d74154758707e5367de7961 )
+)
+
+game (
+	name "Rage Racer (SLUS-00403)"
+	description "Rage Racer (SLUS-00403)"
+	rom ( name "Rage Racer (SLUS-00403) (Bonus Car And First Class Unlocked).psx" size 8246 crc 0x88d5b11b sha1 70652cbe3eab54a2e07780763ab5b59c87b842e8 )
+	rom ( name "Rage Racer (SLUS-00403) (Infinite Credits And All Cars, All Classes, And Team Mary Kay Unlocked).psx" size 8246 crc 0x61d38ec9 sha1 4cbf5604239c72c41a7c869fa36b6ece328353da )
+)
+
+game (
+	name "Raiden DX (SLPS-00728)"
+	description "Raiden DX (SLPS-00728)"
+	rom ( name "Raiden DX (SLPS-00728) (Options Plus Menu Unlocked).psx" size 8246 crc 0x365af7ac sha1 ff11632ea49fff1c9d6d176c7813651ba7682519 )
+)
+
+game (
+	name "Rally Cross (SCUS-94308)"
+	description "Rally Cross (SCUS-94308)"
+	rom ( name "Rally Cross (SCUS-94308) (All Cars And Tracks Unlocked) [a1].psx" size 8246 crc 0x732617c0 sha1 ad3c14f4fce8a2ab04679490f1846dc5b8fdf7c3 )
+	rom ( name "Rally Cross (SCUS-94308) (All Cars And Tracks Unlocked).psx" size 8246 crc 0xf3133a25 sha1 a6a579049887a82066b835e249e1889ca55c7f9e )
+)
+
+game (
+	name "Rally Cross 2 (SCUS-94247)"
+	description "Rally Cross 2 (SCUS-94247)"
+	rom ( name "Rally Cross 2 (SCUS-94247) (All Cars And Tracks).psx" size 8246 crc 0xe5b8014c sha1 7e345981ca4539934cb906458b81f29b3bb5dabd )
+	rom ( name "Rally Cross 2 (SCUS-94247) (All Cars, Tracks, And Secrets Unlocked).psx" size 8246 crc 0xde4e5dbe sha1 3cdd249e062d91263118baebbb7daddbfa9f63e4 )
+	rom ( name "Rally Cross 2 (SCUS-94247) (Twenty Custom Created Tracks; Tracks That End With '2' Are Best For Two-Player Mode, 'H' Are Best For Head-On Mode, 'S' Are Best For Suicide Mode).psx" size 8246 crc 0x951aaacd sha1 58c80f469ad8d8870b45a9597206e621efc71a9b )
+	rom ( name "Rally Cross 2 (SCUS-94247) (User Tracks).psx" size 8246 crc 0x6ae19bd5 sha1 033d9f4de1937dbf3bf016283fa8e126d10c3aa5 )
+)
+
+game (
+	name "Rampage 2 (SLUS-00742)"
+	description "Rampage 2 (SLUS-00742)"
+	rom ( name "Rampage 2 (SLUS-00742) (Final Save Point, All Monsters Saved).psx" size 8246 crc 0x213854c0 sha1 8ed735b3d9ec4c392ec9d1da3d9d3b3f64192d57 )
+)
+
+game (
+	name "Rat Attack (SLUS-00656)"
+	description "Rat Attack (SLUS-00656)"
+	rom ( name "Rat Attack (SLUS-00656) (All Characters And Levels).psx" size 8246 crc 0xbb3635ca sha1 8300a8db78b61d03073c9a395f937d28901afe56 )
+)
+
+game (
+	name "Raystorm (SLUS-00482)"
+	description "Raystorm (SLUS-00482)"
+	rom ( name "Raystorm (SLUS-00482) (All Modes And Extra Options).psx" size 8246 crc 0x21830654 sha1 1b18d549a59e54be6fd3002234691783a020e9ae )
+)
+
+game (
+	name "RC Racer (SLUS-00666)"
+	description "RC Racer (SLUS-00666)"
+	rom ( name "RC Racer (SLUS-00666) (All Cars And Tracks Unlocked).psx" size 8246 crc 0x6dfb84f9 sha1 5c274380dc60f171babd76ed12e8eafe5a523818 )
+)
+
+game (
+	name "RC Stunt Copter (SLUS-00954)"
+	description "RC Stunt Copter (SLUS-00954)"
+	rom ( name "RC Stunt Copter (SLUS-00954) (All Modes And Ace Choppers).psx" size 8246 crc 0x7210ee3c sha1 eb99fd4cf726c210ce019c4b048e5bc5847a8622 )
+)
+
+game (
+	name "Re-Loaded (SLUS-00382)"
+	description "Re-Loaded (SLUS-00382)"
+	rom ( name "Re-Loaded (SLUS-00382) (End Of Game).psx" size 8246 crc 0xb30c76bf sha1 1accfa80b5c641850ec02256aa616bc3846cfee3 )
+)
+
+game (
+	name "Rebel Assault 2 (SLUS-00381)"
+	description "Rebel Assault 2 (SLUS-00381)"
+	rom ( name "Rebel Assault 2 (SLUS-00381) (All Levels Except Final Unlocked).psx" size 8246 crc 0x4f34bfcc sha1 d897abe8b4effcfde0eecc3f5081f5d7ae34c02a )
+	rom ( name "Rebel Assault 2 (SLUS-00381) (All Levels Unlocked).psx" size 8246 crc 0x521a6dc2 sha1 1be875531ed9237a1506415772ab33d2b54dec01 )
+)
+
+game (
+	name "Reel Fishing (SLUS-00440)"
+	description "Reel Fishing (SLUS-00440)"
+	rom ( name "Reel Fishing (SLUS-00440) (All Areas, Licenses, And Records Unlocked).psx" size 8246 crc 0xb2da9995 sha1 4cdef6c72d08bee4212b03eeeed46d7a8eb4023d )
+)
+
+game (
+	name "Resident Evil (SLUS-00170)"
+	description "Resident Evil (SLUS-00170)"
+	rom ( name "Resident Evil (SLUS-00170) (Start At Later Part Of The Game).psx" size 8246 crc 0x6a80fb88 sha1 2f3818d127ec1c9e5a8cf35579ea1a3a0969f3b8 )
+)
+
+game (
+	name "Resident Evil - The Director's Cut (SLUS-00551)"
+	description "Resident Evil - The Director's Cut (SLUS-00551)"
+	rom ( name "Resident Evil - The Director's Cut (SLUS-00551) (Dual Shock Edition) (Start As Chris With All Keys, Medals, Books, Cranks; Shotgun, Rocket Launcher, Colt Python, With 100 Rounds Chambered; At Star Of Game.psx" size 8246 crc 0xab724c3b sha1 199482b24a4284df2830d2a6ccf08d9da2f45815 )
+)
+
+game (
+	name "Resident Evil 2 (SLUS-00421)"
+	description "Resident Evil 2 (SLUS-00421)"
+	rom ( name "Resident Evil 2 (SLUS-00421) (Claire Starts At Last Part Of Game, Before Final Boss).psx" size 8246 crc 0x8c49d966 sha1 95c9306b069546d38d6ba4bf324ad456be4f932c )
+	rom ( name "Resident Evil 2 (SLUS-00421) (Claire Starts With Alternate Costume And Infinite Ammo Rocket Launcher).psx" size 8246 crc 0xc51e2d74 sha1 f538bc2f63c0a86e06559a95ad29ad3b4dc25b20 )
+	rom ( name "Resident Evil 2 (SLUS-00421) (Hunk Scenario Unlocked).psx" size 8246 crc 0x9dc051dd sha1 618e2b1ab50c6f434ccdb0496eb0b4b267caa302 )
+	rom ( name "Resident Evil 2 (SLUS-00421) (Leon Starts With Alternate Costume A And Infinite Rocket Launcher).psx" size 8246 crc 0x7ad71fd9 sha1 b57d270e5e581b1a7c7336e1de1bd54b985c3069 )
+	rom ( name "Resident Evil 2 (SLUS-00421) (Leon Starts With Alternate Costume B And Infinite Rocket Launcher).psx" size 8246 crc 0x56e878ed sha1 ad6ff752e6832ec18d8f5d2faed05cffdd1779ea )
+	rom ( name "Resident Evil 2 (SLUS-00421) (Tofu Scenario Unlocked).psx" size 8246 crc 0xc739258b sha1 6a3ed6feb9dde1c1895b946e44e442ab8e77052b )
+)
+
+game (
+	name "Resident Evil 2 - Dual Shock Edition (SLUS-00748)"
+	description "Resident Evil 2 - Dual Shock Edition (SLUS-00748)"
+	rom ( name "Resident Evil 2 - Dual Shock Edition (SLUS-00748) (Start At Extreme Battle Menu With Claire And Leon Unlocked).psx" size 8246 crc 0x9d95118f sha1 1f16a917eb44ff85024b732b373c44f4a2f70d5a )
+	rom ( name "Resident Evil 2 - Dual Shock Edition (SLUS-00748) (Unknown - Ex Battle 3).psx" size 8246 crc 0x6883b333 sha1 e033f10ebc3756514e5924720842822679ea21f7 )
+)
+
+game (
+	name "Return Fire (SLUS-00184)"
+	description "Return Fire (SLUS-00184)"
+	rom ( name "Return Fire (SLUS-00184) (All Levels Unlocked).psx" size 8246 crc 0x4570989b sha1 206b1fa957813642b18ece17887eb595458ae5f0 )
+)
+
+game (
+	name "Ridge Racer (SCUS-94300)"
+	description "Ridge Racer (SCUS-94300)"
+	rom ( name "Ridge Racer (SCUS-94300) (All Cars And Tracks).psx" size 8246 crc 0xf5881268 sha1 3b01981ea7c1fefab1c4c84e2be78b8b14e398af )
+	rom ( name "Ridge Racer (SCUS-94300) (All Cars, Including Black Angel, And All Tracks Unlocked).psx" size 8246 crc 0x97de251f sha1 af8afd769cb635d82d0e33171e2d61760f3854c8 )
+)
+
+game (
+	name "Ridge Racer (SLPS-00001)"
+	description "Ridge Racer (SLPS-00001)"
+	rom ( name "Ridge Racer (SLPS-00001) (All Cars And Tracks Unlocked).psx" size 8246 crc 0x7b255b73 sha1 db4d885d9ed191d74aa085f0d92f3884a459c71e )
+)
+
+game (
+	name "Ridge Racer Revolution (SLPS-00150)"
+	description "Ridge Racer Revolution (SLPS-00150)"
+	rom ( name "Ridge Racer Revolution (SLPS-00150) (All Cars And Tracks Unlocked).psx" size 8246 crc 0xd33daa4b sha1 65e5d57140389c08138f2928d346970c5add5d56 )
+)
+
+game (
+	name "Ridge Racer Revolution (SLUS-00214)"
+	description "Ridge Racer Revolution (SLUS-00214)"
+	rom ( name "Ridge Racer Revolution (SLUS-00214) (All Cars And Tracks).psx" size 8246 crc 0x0d6d4028 sha1 59f8be89405f859a0661d716140fd8f4527996d5 )
+	rom ( name "Ridge Racer Revolution (SLUS-00214) (All Cars, Including White Angel, And Tracks Unlocked).psx" size 8246 crc 0xcf06015d sha1 702ec7ba95d1a7f9939b146752398102c33980f2 )
+)
+
+game (
+	name "Ridge Racer Type 4 (SLPS-01800)"
+	description "Ridge Racer Type 4 (SLPS-01800)"
+	rom ( name "Ridge Racer Type 4 (SLPSP01800) (All Cars And Tracks Unlocked) (Region Converted).psx" size 8246 crc 0x42bcdeb1 sha1 69fbbb526a4bcd934a5a58fdf08f7276f779487a )
+)
+
+game (
+	name "Ridge Racer Type 4 (SLUS-00797)"
+	description "Ridge Racer Type 4 (SLUS-00797)"
+	rom ( name "Ridge Racer Type 4 (SLUSP00797) (All Cars And Tracks) (Region Converted).psx" size 8246 crc 0xdbc54c82 sha1 702a92e1f58c0714e44d1e525929f5af2ac88f7d )
+)
+
+game (
+	name "Ridge Racer Type 4 (SLUS-90049)"
+	description "Ridge Racer Type 4 (SLUS-90049)"
+	rom ( name "Ridge Racer Type 4 -  Bonus Disc (SLUS-90049) (Mirror Tracks, Galaga Bonus Cars, No.13 Car (13'' Racer), And Bonus No.0 Car (White Angel) All In 1.20).psx" size 8246 crc 0xc86dd4ab sha1 66ee583a4b88a5255930e8a388d55b1bc10ecb89 )
+)
+
+game (
+	name "Rising Zan (SLUS-00829)"
+	description "Rising Zan (SLUS-00829)"
+	rom ( name "Rising Zan (SLUS-00829) (All Rewards And Impacts).psx" size 8246 crc 0x640da55c sha1 88332af5ff3159b03a696f71e1f5b274c1d6a060 )
+)
+
+game (
+	name "Rival Schools - United By Fate (SLUS-00771)"
+	description "Rival Schools - United By Fate (SLUS-00771)"
+	rom ( name "Rival Schools - United By Fate (SLUS-00771) (All Characters And Modes Unlocked).psx" size 8246 crc 0xe3383c58 sha1 6dda67f930084d33046eeebe1bcf0338df50c461 )
+)
+
+game (
+	name "Road Rash (SLUS-00035)"
+	description "Road Rash (SLUS-00035)"
+	rom ( name "Road Rash (SLUS-00035) (Extra Money, All Levels And Superbikes Unlocked).psx" size 8246 crc 0xa3c224f5 sha1 920e8e388e7a331770007c37c13f5054e1ac3f23 )
+)
+
+game (
+	name "Road Rash 3D (SLUS-00524)"
+	description "Road Rash 3D (SLUS-00524)"
+	rom ( name "Road Rash 3D (SLUS-00524) (Good Bike And Lots Of Money).psx" size 8246 crc 0xcf5e8274 sha1 8db042d2812899448beaccad1e6076f1b94934fb )
+	rom ( name "Road Rash 3D (SLUS-00524) (Various Saves).psx" size 8246 crc 0x3dad6f77 sha1 c263f2d82293f607765e6e3ad833fd4bb754435e )
+)
+
+game (
+	name "Robo-Pit (SLUS-00316)"
+	description "Robo-Pit (SLUS-00316)"
+	rom ( name "Robo-Pit (SLUS-00316) (At Champion Rank With All Weapons).psx" size 16438 crc 0xc09d234a sha1 86791b5ff9c0998d4d237d9b463c8c8e6e004b2a )
+	rom ( name "Robo-Pit (SLUS-00316) (Have One Robot And All Weapons At Final Robot Boss).psx" size 16438 crc 0xb525096e sha1 ffd3d377e141b29312a6bd898e5564a9e2cd0fda )
+	rom ( name "Robo-Pit (SLUS-00316) (Ranked Champion With All Weapons).psx" size 16438 crc 0xe2f48f4b sha1 83bfe76b6ff32da002dbd67104217633ad626a0a )
+)
+
+game (
+	name "Rockman X4 (SLPS-00901)"
+	description "Rockman X4 (SLPS-00901)"
+	rom ( name "Rockman X4 (SLPS-00901) (All Levels And Weapons).psx" size 8246 crc 0xd2d209e8 sha1 12697962c6d1add08ff0d6b538d398f2f12598c3 )
+)
+
+game (
+	name "Rogue Trip (SLUS-00643)"
+	description "Rogue Trip (SLUS-00643)"
+	rom ( name "Rogue Trip (SLUS-00643) (BigDaddy).psx" size 8246 crc 0xc8992385 sha1 4be99a5511d92adac5a5944108bdee60a371deb6 )
+	rom ( name "Rogue Trip (SLUS-00643) (Funtopia).psx" size 8246 crc 0x1b6be7e7 sha1 4b06e1602a6a2a8c957774180a3f8adbdc52522b )
+)
+
+game (
+	name "Rogue Trip - Vacation 2012 (SLUS-00643)"
+	description "Rogue Trip - Vacation 2012 (SLUS-00643)"
+	rom ( name "Rogue Trip - Vacation 2012 (SLUS-00643) (Start At Final Level Against Big Daddy Using Goliath).psx" size 8246 crc 0x27a93a3a sha1 99fd40537bfff94d9dc63ad582600363f460d9f5 )
+	rom ( name "Rogue Trip - Vacation 2012 (SLUS-00643) (Start At Final Level Against Big Daddy Using Helicopter).psx" size 8246 crc 0x8477adbb sha1 b46379782715cffd9564a9824465b77592ecc195 )
+	rom ( name "Rogue Trip - Vacation 2012 (SLUS-00643) (Start At Final Level Against Big Daddy Using Sidewinder).psx" size 8246 crc 0xe098bf95 sha1 34655b278b53181846b9e137f20f354b7b46d0b4 )
+)
+
+game (
+	name "Rollcage (SLUS-00800)"
+	description "Rollcage (SLUS-00800)"
+	rom ( name "Rollcage (SLUS-00800) (All Bonuses Unlocked).psx" size 8246 crc 0x454f87fa sha1 6fb8f1851a2e3674d2a18775dbc442ff2b79752c )
+)
+
+game (
+	name "Rugrats (SLUS-00650)"
+	description "Rugrats (SLUS-00650)"
+	rom ( name "Rugrats (SLUS-00650) (All Puzzle Pieces Found).psx" size 8246 crc 0xb918a633 sha1 228bf9692ceef12a7ad305d3b66da809e5fb73a7 )
+)
+
+game (
+	name "Rugrats - Search For Reptar (SLUS-00650)"
+	description "Rugrats - Search For Reptar (SLUS-00650)"
+	rom ( name "Rugrats - Search For Reptar (SLUS-00650) (All 12 Reptar Puzzle Pieces Collected. Find The Reptar Doll To Begin The Last Level.).psx" size 8246 crc 0xb6b2be81 sha1 272bf6edb4dc80fc3c4f633b6ea6e6620bc50ac6 )
+)
+
+game (
+	name "Runabout (SLPS-00857)"
+	description "Runabout (SLPS-00857)"
+	rom ( name "Runabout (SLPS-00857) (All Extra Vehicles Unlocked).psx" size 8246 crc 0x4f0acbdd sha1 1cbf813a1c39b029d2d73077efafa958739292ac )
+	rom ( name "Runabout (SLPS-00857) (All Vehicles And Tracks Unlocked).psx" size 8246 crc 0x2f3e7eb2 sha1 d097d6ea0eee3f9b036c73795b297ac705345b57 )
+)
+
+game (
+	name "Rush Hour (SCUS-94417)"
+	description "Rush Hour (SCUS-94417)"
+	rom ( name "Rush Hour (SCUS-94417) (All Vehicles Unlocked).psx" size 8246 crc 0xbdb0bae8 sha1 43d494c75ad4a04eb9194df639b2acaa8095009b )
+)
+
+game (
+	name "Rushdown (SLUS-00828)"
+	description "Rushdown (SLUS-00828)"
+	rom ( name "Rushdown (SLUS-00828) (All Championship Level Courses Unlocked).psx" size 8246 crc 0xaa424df8 sha1 dad10406afbc5cd28b74e62cb5166ab08affe8b6 )
+	rom ( name "Rushdown (SLUS-00828) (All Levels Unlocked).psx" size 8246 crc 0x36b03b78 sha1 6a060e2b36b85fa95969c1e9ab6bc30743c6fb58 )
+)
+
+game (
+	name "Sampras Extreme Tennis (SLPS-00594)"
+	description "Sampras Extreme Tennis (SLPS-00594)"
+	rom ( name "Sampras Extreme Tennis (SLPS-00594) (All Players In Exhibition Mode Unlocked).psx" size 8246 crc 0xd58f1b44 sha1 32e73e31a455336e46003b5baaf4b0a672ed5a1d )
+)
+
+game (
+	name "Shipwreckers! (SLUS-00558)"
+	description "Shipwreckers! (SLUS-00558)"
+	rom ( name "Shipwreckers! (SLUS-00558) (Level 3).psx" size 8246 crc 0x1a8b2e0c sha1 63e2ca4593f566839e171b1af1c15fa76958d2c4 )
+)
+
+game (
+	name "Side By Side Special (SLPS-01175)"
+	description "Side By Side Special (SLPS-01175)"
+	rom ( name "Side By Side Special (SLPS-01175) (Hidden Tracks Unlocked).psx" size 8246 crc 0x7c3ab940 sha1 3b499038e85b4271c4ada4069a3377e32153d1af )
+)
+
+game (
+	name "Silent Hill (SLUS-00707)"
+	description "Silent Hill (SLUS-00707)"
+	rom ( name "Silent Hill (SLUS-00707) (4 Game Endings Done).psx" size 8246 crc 0x237c972e sha1 fa34dba696a3c8e01b39b078807fa6f14224e3d4 )
+	rom ( name "Silent Hill (SLUS-00707) (All Weapons Unlocked).psx" size 8246 crc 0xca5b50ce sha1 e550572bd1cd1e9a69e0268bc613b8e1081e8d17 )
+)
+
+game (
+	name "Silverload (SLUS-00050)"
+	description "Silverload (SLUS-00050)"
+	rom ( name "Silverload (SLUS-00050) (85% Completion; Start At Final Gunfight).psx" size 8246 crc 0x4882b47b sha1 72ce7cc4d35019ac32bad1dd1576dca81b2a0cfe )
+)
+
+game (
+	name "Sim City 2000 (SLUS-00113)"
+	description "Sim City 2000 (SLUS-00113)"
+	rom ( name "Sim City 2000 (SLUS-00113) (Start With Large Pre-Built City).psx" size 24630 crc 0xe9eba7b8 sha1 ab0b1f154e62e7960ad84a8625891c77d2d0ede1 )
+)
+
+game (
+	name "Sled Storm (SLUS-00955)"
+	description "Sled Storm (SLUS-00955)"
+	rom ( name "Sled Storm (SLUS-00955) (All Characters).psx" size 8246 crc 0xe18c1eba sha1 eea57332e0ae0c267891cce68d47c80defe25853 )
+	rom ( name "Sled Storm (SLUS-00955) (All Mountain Tracks Unlocked).psx" size 8246 crc 0xde825885 sha1 b3a6734caafac465d981286ef593317380483f77 )
+	rom ( name "Sled Storm (SLUS-00955) (All Racing Conditions).psx" size 8246 crc 0xde825885 sha1 b3a6734caafac465d981286ef593317380483f77 )
+)
+
+game (
+	name "Small Soldiers (SLUS-00781)"
+	description "Small Soldiers (SLUS-00781)"
+	rom ( name "Small Soldiers (SLUS-00781) (Start At Final Battle With Chip Hazard).psx" size 8246 crc 0x302043b4 sha1 4619afffda20c8329170da39331bd9c71c14b74d )
+)
+
+game (
+	name "Soul Blade (SLUS-00240)"
+	description "Soul Blade (SLUS-00240)"
+	rom ( name "Soul Blade (SLUS-00240) (All Characters And Weapons Unlocked) [a1].psx" size 8246 crc 0x982c28cd sha1 731dc46d8f1f5c133e68998efce55452c4a509fb )
+	rom ( name "Soul Blade (SLUS-00240) (All Characters And Weapons Unlocked).psx" size 8246 crc 0xcd9a0c18 sha1 19210167009245a3ee4d479fa5f09738cf587976 )
+	rom ( name "Soul Blade (SLUS-00240) (Everything Unlocked).psx" size 8246 crc 0x9f06bdfc sha1 65ff4a327cab13dc2b7a009464698dea48e8bf81 )
+	rom ( name "Soul Blade (SLUS-00240) (Soul Edge And Extra Weapon For Each Character Unlocked).psx" size 8246 crc 0xc49d667a sha1 1ee66e78a797f42ce204ce3e1b078034a8637e24 )
+)
+
+game (
+	name "Soviet Strike (SLUS-00061)"
+	description "Soviet Strike (SLUS-00061)"
+	rom ( name "Soviet Strike (SLUS-00061) (All Levels Unlocked).psx" size 8246 crc 0x2d8f9fc4 sha1 8f99e399fbad6992956bd181aa339c7c40626f4e )
+)
+
+game (
+	name "Speed Power Gunbike (SLPS-01066)"
+	description "Speed Power Gunbike (SLPS-01066)"
+	rom ( name "Speed Power Gunbike (SLPS-01066) (All Levels Unlocked).psx" size 8246 crc 0x89935bd6 sha1 c67600b36c6ef73259e9fba8f9cd8d98d94f4e3e )
+)
+
+game (
+	name "Speed Racer (SLPS-00295)"
+	description "Speed Racer (SLPS-00295)"
+	rom ( name "Speed Racer (SLPS-00295) (All Normal Cars, Racer X's Car, And Ogre Cars Unlocked).psx" size 8246 crc 0x5968782c sha1 72346d127d918d656fd179e7b247fa0cda8a441e )
+)
+
+game (
+	name "Speed Racer (SLUS-00613)"
+	description "Speed Racer (SLUS-00613)"
+	rom ( name "Speed Racer (SLUS-00613) (All Cars Unlocked).psx" size 8246 crc 0x6d1e2195 sha1 b8cfd637977c6e3f9bc3ff3062c829726dcfa2fc )
+)
+
+game (
+	name "Spider (SLUS-00230)"
+	description "Spider (SLUS-00230)"
+	rom ( name "Spider (SLUS-00230) (All Levels Unlocked).psx" size 8246 crc 0x34de2f74 sha1 8c11329992c041ae5615ce9108a248c05eb54f0e )
+)
+
+game (
+	name "Sports Car GT (SLUS-00655)"
+	description "Sports Car GT (SLUS-00655)"
+	rom ( name "Sports Car GT (SLUS-00655) (5 GT Classes Including The Paris Unlocked; Over $1,000,000; All Regular Cars And 3 Special Cars).psx" size 8246 crc 0x8aa67d49 sha1 b4b04770e66e850a1cacdd0f2af82a4f36b26a70 )
+)
+
+game (
+	name "Spyro 2 - Ripto's Rage (SCUS-94425)"
+	description "Spyro 2 - Ripto's Rage (SCUS-94425)"
+	rom ( name "Spyro 2 - Ripto's Rage (SCUS-94425) (47% Completed).psx" size 8246 crc 0x5baa05b9 sha1 48aed5ec8ca3037480a218e98ac80b9f5171776d )
+)
+
+game (
+	name "Spyro The Dragon (SCUS-94228)"
+	description "Spyro The Dragon (SCUS-94228)"
+	rom ( name "Spyro The Dragon (SCUS-94228) (120% Complete With All Gems).psx" size 8246 crc 0x3fd2ea01 sha1 e7db2c689da8ff7f81625bbfb66fff5985176c23 )
+)
+
+game (
+	name "Star Fighter (SLUS-00241)"
+	description "Star Fighter (SLUS-00241)"
+	rom ( name "Star Fighter (SLUS-00241) (First Three Levels Completed, Lasers Upgraded, All Weapons, 999 Beam Lasers, 999 Mines, 999 Megabombs).psx" size 8246 crc 0xeafd7f61 sha1 c93e3b64b7ab2a05190a1bc5e12988acdaf2a383 )
+)
+
+game (
+	name "Star Gladiators (SLUS-00372)"
+	description "Star Gladiators (SLUS-00372)"
+	rom ( name "Star Gladiators (SLUS-00372) (All Characters And Modes Unlocked).psx" size 8246 crc 0xbdde487d sha1 20c005106ad444abb1c35129dbde6f72fe47dd10 )
+	rom ( name "Star Gladiators (SLUS-00372) (All Characters And Modes).psx" size 8246 crc 0x95579e0b sha1 cea3b755f4821828b30a68c66cffaf22653f7405 )
+	rom ( name "Star Gladiators (SLUS-00372) (All Characters Unlocked).psx" size 8246 crc 0xd8cfde65 sha1 9929fd6264060dfc63d8678ab5985b1a8173f144 )
+)
+
+game (
+	name "Star Ocean - The Second Story (SCUS-94421)"
+	description "Star Ocean - The Second Story (SCUS-94421)"
+	rom ( name "Star Ocean - The Second Story (SCUS-94421) (Claude Scenario, At Level 90 Facing Final Boss).psx" size 8246 crc 0x3d338bd7 sha1 639ae3f54bec8b24b7d72b1e3240c83642bf921a )
+)
+
+game (
+	name "Star Ocean 2 (SCUS-94421)"
+	description "Star Ocean 2 (SCUS-94421)"
+	rom ( name "Star Ocean 2 (SCUS-94421) (Rena at Level 255).psx" size 8246 crc 0x4b5036d5 sha1 1cad9335f9faaa1f4caba6daaa712d2c17e8699a )
+)
+
+game (
+	name "Star Wars - Masters Of Teras Kasi (SLUS-00562)"
+	description "Star Wars - Masters Of Teras Kasi (SLUS-00562)"
+	rom ( name "Star Wars - Masters Of Teras Kasi (SLUS-00562) (All Characters Unlocked) [a1].psx" size 8246 crc 0xcbfb271d sha1 f5d05c55dc80d00d8163684a46c3ccb7026b2241 )
+	rom ( name "Star Wars - Masters Of Teras Kasi (SLUS-00562) (All Characters Unlocked).psx" size 8246 crc 0xd1d905b5 sha1 697999be3fa71d1baf55f157c2cbacbc2c18735a )
+)
+
+game (
+	name "Steel Reign (SCUS-94902)"
+	description "Steel Reign (SCUS-94902)"
+	rom ( name "Steel Reign (SCUS-94902) (Last Mission Unlocked).psx" size 8246 crc 0xa729252f sha1 d5114ad17d69590c47a1aca9f409e5f47fb7e81e )
+)
+
+game (
+	name "Streak - Hoverboard Racing (SLUS-00629)"
+	description "Streak - Hoverboard Racing (SLUS-00629)"
+	rom ( name "Streak - Hoverboard Racing (SLUS-00629) (Tracks 1-8 unlocked by Jade).psx" size 8246 crc 0x46f3bc89 sha1 9261c9ba273975f9988e2b9ba9dd20537738f597 )
+)
+
+game (
+	name "Street Boarders (SLPS-01622)"
+	description "Street Boarders (SLPS-01622)"
+	rom ( name "Street Boarders (SLPS-01622) (All Tracks, All Players, And All Boards Unlocked).psx" size 8246 crc 0x367e3583 sha1 6131fdffbb9433666da5976ce61e6e0622443551 )
+)
+
+game (
+	name "Street Fighter Alpha (SLUS-00197)"
+	description "Street Fighter Alpha (SLUS-00197)"
+	rom ( name "Street Fighter Alpha (SLUS-00197) (Dan, Akuma, M. Bison And Team Mode Unlocked).psx" size 8246 crc 0x1d0f3b01 sha1 4ed6af2024426a9c422a371f3135ceaeb30df3c6 )
+)
+
+game (
+	name "Street Fighter Alpha 2 (SLUS-00258)"
+	description "Street Fighter Alpha 2 (SLUS-00258)"
+	rom ( name "Street Fighter Alpha 2 (SLUS-00258) (Final Battle; Ken Vs. Ryu).psx" size 8246 crc 0x5b35356e sha1 cee43976d5c82c3ad471cf2905725cc14d3e5cc9 )
+)
+
+game (
+	name "Street Fighter Alpha 2 Gold (SLUS-00584)"
+	description "Street Fighter Alpha 2 Gold (SLUS-00584)"
+	rom ( name "Street Fighter Alpha 2 Gold (SLUS-00584) (Play As Cammy).psx" size 8246 crc 0xe4beda0e sha1 2bd0c264a4d8f7c9032614ae4ff66e90681c8277 )
+)
+
+game (
+	name "Street Fighter Alpha 3 (SLUS-00821)"
+	description "Street Fighter Alpha 3 (SLUS-00821)"
+	rom ( name "Street Fighter Alpha 3 (SLUSP00821) (All Modes And Extra Options) (Region Converted.psx" size 8246 crc 0x9c9ab116 sha1 d1805149c8a28f0a544d74d9d39bc5a92f0fe934 )
+)
+
+game (
+	name "Street Fighter Collection 2 (SLUS-00746)"
+	description "Street Fighter Collection 2 (SLUS-00746)"
+	rom ( name "Street Fighter Collection 2 (SLUS-00746) (Versus Deluxe Mode, Extra Art, Remixed Music, Music Test Unlocked).psx" size 8246 crc 0x806c6f3f sha1 9eec44210cdaa345ae6338feb81dcd65d00da350 )
+)
+
+game (
+	name "Street Fighter EX Plus Alpha (SLPM-86041)"
+	description "Street Fighter EX Plus Alpha (SLPM-86041)"
+	rom ( name "Street Fighter EX Plus Alpha (SLPM-86041) (All Characters, Options+ Menu, All Endings, Full Expert Mode, And Bonus Game Unlocked).psx" size 8246 crc 0x81a7b485 sha1 02ee395d3112c2ebfc41e2a5758aaae41984c8d3 )
+)
+
+game (
+	name "Street Fighter EX Plus Alpha (SLUS-00548)"
+	description "Street Fighter EX Plus Alpha (SLUS-00548)"
+	rom ( name "Street Fighter Ex Plus Alpha (SLUS-00548) (All Endings, Characters).psx" size 8246 crc 0x9952f98d sha1 66addff4c361dc223b7a51044e21425ab45745fc )
+	rom ( name "Street Fighter EX Plus Alpha (SLUS-00548) (All FMV Endings And Secret Characters Unlocked; Almost All Expert Training Mode Tips Unlocked).psx" size 8246 crc 0x35a739b6 sha1 c8228884e2c92be38016c39e5be71187f26a56cf )
+)
+
+game (
+	name "Street Fighter Zero (SLPS-00176)"
+	description "Street Fighter Zero (SLPS-00176)"
+	rom ( name "Street Fighter Zero (SLPS-00176) (Dramatic Battle Mode Unlocked).psx" size 8246 crc 0x8eb87172 sha1 7c0df76f2af7a6dd0612deaf75778122380f64c8 )
+)
+
+game (
+	name "Street Fighter Zero 3 (SLPS-01777)"
+	description "Street Fighter Zero 3 (SLPS-01777)"
+	rom ( name "Street Fighter Zero 3 (SLPSP01777) (All Modes Unlocked; Evil Ryu, Guile, Shin Akuma, And Several World Tour Characters Including A Level 32 Evil Ryu, Level 32 Ken, And Level 10 Deejay Unlocked) (Region Converted).psx" size 8246 crc 0x6c67b809 sha1 976a5380a85e2d2adc1baa88868fa4f9cb127eea )
+	rom ( name "Street Fighter Zero 3 (SLPSP01777) (Guile And Evil Ryu Unlocked) (Region Converted).psx" size 8246 crc 0xda165baf sha1 05d06571a5a1aad093ddc743f5f8800b2a809f62 )
+)
+
+game (
+	name "Street Racer (SLUS-00099)"
+	description "Street Racer (SLUS-00099)"
+	rom ( name "Street Racer (SLUS-00099) (All Tracks Unlocked).psx" size 8246 crc 0x2bb95c42 sha1 826bd48c9b165f3b6fc5f5bc4c4accc212236543 )
+)
+
+game (
+	name "Street Sk8er (SLUS-00818)"
+	description "Street Sk8er (SLUS-00818)"
+	rom ( name "Street Sk8er (SLUS-00818) (All Bonus Character, Skateboards, Levels, And Gates Unlocked).psx" size 8246 crc 0x8f15b4d8 sha1 7191f220a83c893cc84344177b2e9badbc2fa273 )
+	rom ( name "Street Sk8er (SLUS-00818) (All Players, Gates Open).psx" size 8246 crc 0x5dc8c97c sha1 c581cc992a2507706f2e4aff4c07151cc380ffc5 )
+)
+
+game (
+	name "Suikoden 2 (SLUS-00958)"
+	description "Suikoden 2 (SLUS-00958)"
+	rom ( name "Suikoden 2 (SLUS-00958) (All 108 Stars Of Destiny Gathered, Right Before Rockaxe Mission Briefing).psx" size 16438 crc 0x77ed0ed2 sha1 3cda05d17dc1018ef7f6040eea39482cce6b6d98 )
+)
+
+game (
+	name "Super Puzzle Fighter 2 Turbo (SLUS-00418)"
+	description "Super Puzzle Fighter 2 Turbo (SLUS-00418)"
+	rom ( name "Super Puzzle Fighter 2 Turbo (SLUS-00418) (All Street Puzzle Mode Features Unlocked).psx" size 8246 crc 0x7f8492cd sha1 88850c3429ebb0a4e7e35895708be944ea931f4e )
+	rom ( name "Super Puzzle Fighter 2 Turbo (SLUS-00418) (Start With All Prizes).psx" size 8246 crc 0xfa247336 sha1 90903b8d1755ae7c16cc11fb022ab8ad757ab924 )
+)
+
+game (
+	name "Super Puzzle Fighter II (SLUS-00418)"
+	description "Super Puzzle Fighter II (SLUS-00418)"
+	rom ( name "Super Puzzle Fighter II (SLUS-00418) (All Extras).psx" size 8246 crc 0x38b9b391 sha1 729833ba9c1e1834db4f22b3e59b4bbeff87dfcd )
+)
+
+game (
+	name "Supercross 2000 (SLUS-01005)"
+	description "Supercross 2000 (SLUS-01005)"
+	rom ( name "Supercross 2000 (SLUS-01005) (Start At The Last Race Of The Season).psx" size 8246 crc 0x0f964cec sha1 4d7fa2f6f8c3808598df898ff81ba275865753b0 )
+)
+
+game (
+	name "Syphon Filter (SCUS-94240)"
+	description "Syphon Filter (SCUS-94240)"
+	rom ( name "Syphon Filter (SCUS-94240) (All Levels Unlocked).psx" size 8246 crc 0x484300e9 sha1 766819d2c6ac3c0bb78f25228904db871206f248 )
+	rom ( name "Syphon Filter (SCUS-94240) (Start At Second Level With Many Weapons And Lots Of Ammunition).psx" size 8246 crc 0x1b243d21 sha1 0b36aa0ac9322be95ef3b5835fda14339cc8545b )
+)
+
+game (
+	name "T.R.A.G. (SLPS-01733)"
+	description "T.R.A.G. (SLPS-01733)"
+	rom ( name "T.R.A.G. (SLPS-01733) (Two Various Saves).psx" size 8246 crc 0x2c35f0ac sha1 106b77c7bd24838b207f16d41a479a7d498cd751 )
+)
+
+game (
+	name "Tail Of The Sun (SCUS-94607)"
+	description "Tail Of The Sun (SCUS-94607)"
+	rom ( name "Tail Of The Sun (SCUS-94607) (Start At End Of Game).psx" size 16438 crc 0x7fb9c9c2 sha1 57458fe91a350c1932c7ac580f18e828f55ef5af )
+)
+
+game (
+	name "Tales Of Destiny (SLUS-00626)"
+	description "Tales Of Destiny (SLUS-00626)"
+	rom ( name "Tales Of Destiny (SLUS-00626) (End Of Game, Special Tower Completed).psx" size 8246 crc 0xce4e8b11 sha1 3a6515b377c2a418d137e34688d5779279aece50 )
+)
+
+game (
+	name "Tarzan (SCUS-94456)"
+	description "Tarzan (SCUS-94456)"
+	rom ( name "Tarzan (SCUS-94456) (Have All Levels, Movies).psx" size 8246 crc 0x04408001 sha1 62155d14738113f73bdffbcf8a7c1b3238ff54ad )
+)
+
+game (
+	name "Tecmo's Deception (SLUS-00340)"
+	description "Tecmo's Deception (SLUS-00340)"
+	rom ( name "Tecmo's Deception (SLUS-00340) (Start At Final Section Of Game).psx" size 73782 crc 0xc7fc64ff sha1 7152bf08362da563e03243ba24d2b2a34b6017f9 )
+)
+
+game (
+	name "Tekken (SLPS-00040)"
+	description "Tekken (SLPS-00040)"
+	rom ( name "Tekken (SLPS-00040) (All Characters Unlocked).psx" size 8246 crc 0x02865ef1 sha1 1fc394cf1fa394741b912091f8a36661c353eedb )
+)
+
+game (
+	name "Tekken (SLUS-00006)"
+	description "Tekken (SLUS-00006)"
+	rom ( name "Tekken (SLUS-00006) (All Characters Unlocked) [a1].psx" size 8246 crc 0xf0e06f1d sha1 23b86fc7a583ed5be8a5ad52486cbbe28f7d7e58 )
+	rom ( name "Tekken (SLUS-00006) (All Characters Unlocked).psx" size 8246 crc 0x2f06ec37 sha1 75d962fbbc57318b36388f5972cb872823b938c3 )
+)
+
+game (
+	name "Tekken 2 (SLPS-00300)"
+	description "Tekken 2 (SLPS-00300)"
+	rom ( name "Tekken 2 (SLPS-00300) (All Characters Unlocked).psx" size 8246 crc 0xbe02c685 sha1 a1321c3aad5af95cd5a728411a4efad9ae56396c )
+)
+
+game (
+	name "Tekken 2 (SLUS-00213)"
+	description "Tekken 2 (SLUS-00213)"
+	rom ( name "Tekken 2 (SLUS-00213) (All Characters Unlocked) [a1].psx" size 8246 crc 0xfecb1c47 sha1 07f2dd3b670ae4360b8f1887d2bff467dc844318 )
+	rom ( name "Tekken 2 (SLUS-00213) (All Characters Unlocked) [a2].psx" size 8246 crc 0xd1e1ef76 sha1 490226c2c12e36162470ecfe153c1e4509d927ef )
+	rom ( name "Tekken 2 (SLUS-00213) (All Characters Unlocked).psx" size 8246 crc 0x23618f66 sha1 9fba7f132c1220abe2f3f6a7a40faff62a01a841 )
+)
+
+game (
+	name "Tekken 3 (SLPS-01300)"
+	description "Tekken 3 (SLPS-01300)"
+	rom ( name "Tekken 3 (SLPS-01300) (All Characters, Ball Mode, Theater Mode, All Theater Mode Fmv Sequences, All Keys In Force Mode Unlocked).psx" size 8246 crc 0xfb5445e7 sha1 9f9e8798dc9a36207018e2aca4e3c4fa8a62e890 )
+)
+
+game (
+	name "Tekken 3 (SLUS-00402)"
+	description "Tekken 3 (SLUS-00402)"
+	rom ( name "Tekken 3 (SLUS-00402) (All Characters And Modes Unlocked).psx" size 8246 crc 0x1338dd2f sha1 d40b9c8794b427575909618fe1e9f212c6dad27f )
+	rom ( name "Tekken 3 (SLUS-00402) (All Characters, Bonus Stages And Modes).psx" size 8246 crc 0x549c963a sha1 1834a6bc7ee0644868c50810650132bcf87ec5ad )
+)
+
+game (
+	name "Tempest X3 (SLUS-00283)"
+	description "Tempest X3 (SLUS-00283)"
+	rom ( name "Tempest X3 (SLUS-00283) (All Bonus Modes Unlocked).psx" size 8246 crc 0xe3f5138d sha1 d6abe2dcda5484c0ecf8111c363b05b7da8517cc )
+)
+
+game (
+	name "Tenchu - Stealth Assassians (SLPS-01272)"
+	description "Tenchu - Stealth Assassians (SLPS-01272)"
+	rom ( name "Tenchu - Stealth Assassians (SLPS-01272) (All Levels Unlocked).psx" size 8246 crc 0xc382bfbc sha1 6116593607c76bba8fd4071341e5a77c4f3d63b8 )
+)
+
+game (
+	name "Tenchu - Stealth Assassians (SLUS-00706)"
+	description "Tenchu - Stealth Assassians (SLUS-00706)"
+	rom ( name "Tenchu - Stealth Assassians (SLUS-00706) (All Levels And Items Unlocked).psx" size 8246 crc 0xccef93a0 sha1 57302133ae38e07ffeb8be64d22d190d3bee46ca )
+	rom ( name "Tenchu - Stealth Assassians (SLUS-00706) (Grand Master In All 3 Scenarios).psx" size 8246 crc 0x4f1e17bb sha1 f0a3eefdb38e0450c8c8ead7ddf781b3d508cb95 )
+)
+
+game (
+	name "Test Drive - Off Road 3 (SLUS-00840)"
+	description "Test Drive - Off Road 3 (SLUS-00840)"
+	rom ( name "Test Drive - Off Road 3 (SLUS-00840) (Everything Unlocked).psx" size 16438 crc 0x9bd51eaf sha1 bae2dcaf35a850d470b73c60e5122e2fd2d7c1f3 )
+)
+
+game (
+	name "Test Drive - Off-Road (SLUS-00396)"
+	description "Test Drive - Off-Road (SLUS-00396)"
+	rom ( name "Test Drive - Off-Road (SLUS-00396) (All Tracks And Trucks Unlocked).psx" size 8246 crc 0x9eba4314 sha1 5a69c99c21bed510e57d085cbc41b746c61f0212 )
+)
+
+game (
+	name "Test Drive - Off-Road 2 (SLUS-00609)"
+	description "Test Drive - Off-Road 2 (SLUS-00609)"
+	rom ( name "Test Drive - Off-Road 2 (SLUS-00609) (Extra Money; All Cars Unlocked In World Tour Mode; All Tracks, Including Reversed, Unlocked; All Classes Unlocked).psx" size 8246 crc 0x091c7c11 sha1 30f212641d0a2ede74b76f8fcda8c1c887d4206e )
+)
+
+game (
+	name "Test Drive 5 (SLUS-00610)"
+	description "Test Drive 5 (SLUS-00610)"
+	rom ( name "Test Drive 5 (SLUS-00610) (All Cars And Tracks).psx" size 8246 crc 0x23271fd6 sha1 c0b3dfdfce2a96b7d591862cb03f719d4e56b266 )
+	rom ( name "Test Drive 5 (SLUS-00610) (All Cars Unlocked).psx" size 8246 crc 0x0ed01d85 sha1 405acdeeff0bad66a55278960be53a3b204a0968 )
+)
+
+game (
+	name "Test Drive 6 (SLUS-00839)"
+	description "Test Drive 6 (SLUS-00839)"
+	rom ( name "Test Drive 6 (SLUS-00839) (Over $30,000,000 In Beginning Credits).psx" size 8246 crc 0xea2d374a sha1 6d22262bd2111123d16c41898162ada742ecea99 )
+)
+
+game (
+	name "Testdrive 4 (SLUS-00487)"
+	description "Testdrive 4 (SLUS-00487)"
+	rom ( name "Testdrive 4 (SLUS-00487) (All Tracks And Cars Unlocked).psx" size 8246 crc 0x586fe85b sha1 793b89d15885756d9582340e35f50241d86f74f1 )
+)
+
+game (
+	name "Tetris Plus (SLUS-00338)"
+	description "Tetris Plus (SLUS-00338)"
+	rom ( name "Tetris Plus (SLUS-00338) (All Levels Unlocked).psx" size 8246 crc 0xd5fb68b1 sha1 3a5752a2c0b09115e37b63913ff2dad616a96c1c )
+)
+
+game (
+	name "Thrill Kill (SLUS-00752)"
+	description "Thrill Kill (SLUS-00752)"
+	rom ( name "Thrill Kill (SLUS-00752) (Everything).psx" size 8246 crc 0xbc75d1fd sha1 e0d50d6ccdfb257ef8c1fb3b31d60a7d4da66f20 )
+)
+
+game (
+	name "Thrill Kill (SLUS-12345)"
+	description "Thrill Kill (SLUS-12345)"
+	rom ( name "Thrill Kill (SLUS-12345) (All Characters, Costumes, And Stages Unlocked).psx" size 8246 crc 0x9b53876e sha1 8e48bcb76e6e0ad19bf9a396191a79bef8b6584b )
+	rom ( name "Thrill Kill (SLUS-12345) (Everything).psx" size 8246 crc 0x913ebd41 sha1 3040269dd50ddc2f4f80d709e49cdc68887f2ec4 )
+)
+
+game (
+	name "Tobal 2 (SLPM-86033)"
+	description "Tobal 2 (SLPM-86033)"
+	rom ( name "Tobal 2 (SLPM-86033) (All 200+ Characters And Fmv Sequences Unlocked) [a1].psx" size 8246 crc 0xf942aa85 sha1 f309596c88ae71b07b79a999d10581b0139f3272 )
+	rom ( name "Tobal 2 (SLPM-86033) (All 200+ Characters And Fmv Sequences Unlocked).psx" size 8246 crc 0x7afdeafb sha1 b54f44e4ecd41305df447a8af6a4d1ad95b353f8 )
+	rom ( name "Tobal 2 (SLPM-86033) (Nude Epon, Mary, Ill And Chaco Costumes Available).psx" size 8246 crc 0x381abe57 sha1 67ef4f3a24c0ace202c00fe0e977f7cc7d8e33bc )
+)
+
+game (
+	name "Tobal No. 1 (SCUS-94208)"
+	description "Tobal No. 1 (SCUS-94208)"
+	rom ( name "Tobal No. 1 (SCUS-94208) (All Characters Unlocked).psx" size 8246 crc 0x9a12acd6 sha1 f10519d7a48643efde84bfbe81e2be4e47a83f79 )
+	rom ( name "Tobal No. 1 (SCUS-94208) (All Hidden Characters Are Selectable).psx" size 8246 crc 0xe590af2c sha1 116d2aeb85c3d77c61dedb795917a5963eb8f0b7 )
+)
+
+game (
+	name "Tobal No. 1 (SLPS-00400)"
+	description "Tobal No. 1 (SLPS-00400)"
+	rom ( name "Tobal No. 1 (SLPS-00400) (All Levels Unlocked).psx" size 8246 crc 0x1fa74700 sha1 58f54051e0c8210bd3b36433cfc11a732ee6084f )
+)
+
+game (
+	name "Toca 2 (SLUS-00996)"
+	description "Toca 2 (SLUS-00996)"
+	rom ( name "Toca 2 (SLUS-00996) (All Cars And Tracks Unlocked).psx" size 8246 crc 0xc1f92ef6 sha1 dbad9928076c6d1fd8bfaee44bfe74b712e01f7b )
+)
+
+game (
+	name "Toca Touring Car Championship (SLUS-00611)"
+	description "Toca Touring Car Championship (SLUS-00611)"
+	rom ( name "Toca Touring Car Championship (SLUS-00611) (All Tracks And Tank Unlocked).psx" size 8246 crc 0xc64af265 sha1 e3414cfdc54a8d1708048a39499fd05743a2b33e )
+)
+
+game (
+	name "Tokyo Highway Battle (SLUS-00229)"
+	description "Tokyo Highway Battle (SLUS-00229)"
+	rom ( name "Tokyo Highway Battle (SLUS-00229) (One Course Remaining Against The Drift King).psx" size 8246 crc 0x176b0a6b sha1 36c03e4886bb6f618e2ff3c4496b15f62dc997ca )
+)
+
+game (
+	name "Tom Clancy's Rainbow 6 (SLUS-00947)"
+	description "Tom Clancy's Rainbow 6 (SLUS-00947)"
+	rom ( name "Tom Clancy's Rainbow 6 (SLUS-00947) (All Missions Unlocked).psx" size 8246 crc 0xcf2ffefd sha1 9a54b3147ad4be31f0e7e84ffc776fd119e7d408 )
+)
+
+game (
+	name "Tomb Raider (SLUS-00152)"
+	description "Tomb Raider (SLUS-00152)"
+	rom ( name "Tomb Raider (SLUS-00152) (All Levels Unlocked) [a1].psx" size 8246 crc 0x57be1ffe sha1 bc344cb8c43ab70ae4a1b4c425f135ffaa6c6ad5 )
+	rom ( name "Tomb Raider (SLUS-00152) (All Levels Unlocked).psx" size 8246 crc 0x1b0213d5 sha1 88c4adc7229ce636abc72780efffdec7fb796e81 )
+	rom ( name "Tomb Raider (SLUS-00152) (Start At Any Level).psx" size 8246 crc 0x06298cd5 sha1 afb38d7fb9a9308b47e23cffb147237413232597 )
+)
+
+game (
+	name "Tomb Raider 2 (SLUS-00437)"
+	description "Tomb Raider 2 (SLUS-00437)"
+	rom ( name "Tomb Raider 2 (SLUS-00437) (All Levels Unlocked).psx" size 8246 crc 0x70e64cd0 sha1 3f5d3b4af4c7d3d260c49bf96bcbc6a40478010c )
+)
+
+game (
+	name "Tomb Raider 2 - The Dagger Of Xian (SLUS-00437)"
+	description "Tomb Raider 2 - The Dagger Of Xian (SLUS-00437)"
+	rom ( name "Tomb Raider 2 - The Dagger Of Xian (SLUS-00437) (All Levels Unlocked).psx" size 8246 crc 0x6af17198 sha1 d543455b4a3fecd7dd05285a6d00782817734ba8 )
+	rom ( name "Tomb Raider 2 - The Dagger Of Xian (SLUS-00437) (All Levels Unlocked, All Weapons, And Infinite Ammo).psx" size 8246 crc 0x98860ec0 sha1 4efff57a79bf133957848de0a0238905eaccc9a6 )
+)
+
+game (
+	name "Tomb Raider 3 (SLUS-00691)"
+	description "Tomb Raider 3 (SLUS-00691)"
+	rom ( name "Tomb Raider 3 (SLUS-00691) (All Levels).psx" size 16438 crc 0xa6240d2b sha1 032e24ee473f0a707be063d06c62fe22140faad1 )
+)
+
+game (
+	name "Tomb Raider 3 - Adventures Of Lara Croft (SLUS-00691)"
+	description "Tomb Raider 3 - Adventures Of Lara Croft (SLUS-00691)"
+	rom ( name "Tomb Raider 3 - Adventures Of Lara Croft (SLUS-00691) (All Levels And FMV Sequences Unlocked).psx" size 16438 crc 0x7e0de244 sha1 655bd5af013dc366ea28e16184fe1751190960f0 )
+)
+
+game (
+	name "Tomba (SCUS-94236)"
+	description "Tomba (SCUS-94236)"
+	rom ( name "Tomba (SCUS-94236) (All Objectives And Weapons).psx" size 8246 crc 0x5b2f5d55 sha1 8f9f93203076394c7ecba2baaa0f4e66150eb79b )
+)
+
+game (
+	name "Tomba! (SCUS-94236)"
+	description "Tomba! (SCUS-94236)"
+	rom ( name "Tomba! (SCUS-94236) (13.07 Level 08).psx" size 8246 crc 0xe9502704 sha1 32c198cd92acb976779a16d2fc591f87117b9e24 )
+	rom ( name "Tomba! (SCUS-94236) (14.11 Level 08).psx" size 8246 crc 0x03eb397f sha1 a88fb6a47df685d9e646dfbec9cd9f9b101055bf )
+)
+
+game (
+	name "Tomorrow Never Dies (SLUS-00975)"
+	description "Tomorrow Never Dies (SLUS-00975)"
+	rom ( name "Tomorrow Never Dies (SLUS-00975) (All Levels Complete All Movies Veiwable On 007 Skill Level).psx" size 8246 crc 0x43cfc63a sha1 3bacb1ec473ee836ad19ba560605004956cb632d )
+)
+
+game (
+	name "Tony Hawk's Pro Skater (SLUS-00860)"
+	description "Tony Hawk's Pro Skater (SLUS-00860)"
+	rom ( name "Tony Hawk's Pro Skater (SLUS-00860) (Everything Unlocked).psx" size 8246 crc 0x89e2e450 sha1 e0fee29b76e49a3321be75238b3e6fb70175a90a )
+)
+
+game (
+	name "Tony Hawk's Pro Skater 2 (SLUS-01066)"
+	description "Tony Hawk's Pro Skater 2 (SLUS-01066)"
+	rom ( name "Tony Hawk's Pro Skater 2 (SLUS-01066) (All Gaps Less Skate Heaven).psx" size 8246 crc 0xbfc1690e sha1 8fd974946a0035c72c9bc378457af868ea2df303 )
+	rom ( name "Tony Hawk's Pro Skater 2 (SLUS-01066) (Everything Unlocked).psx" size 8246 crc 0x9a67539d sha1 b73bcc354c2e71d77659c43be55fe5b37c6633d0 )
+)
+
+game (
+	name "Tony Hawks Pro Skater 2 (SLUS-01066)"
+	description "Tony Hawks Pro Skater 2 (SLUS-01066)"
+	rom ( name "Tony Hawks Pro Skater 2 (SLUS-01066) (A Very Good Savegame).psx" size 8246 crc 0x579d9462 sha1 9bfae1267a34dbb5eff0fd905d7d647988e9e44a )
+	rom ( name "Tony Hawks Pro Skater 2 (SLUS-01066) - Custom Park (FNG Grind 101).psx" size 8246 crc 0xb66f86c1 sha1 9c776b0859bd0df3cbb87dd8ed3b9038a1a7b56e )
+	rom ( name "Tony Hawks Pro Skater 2 (SLUS-01066) - Custom Park (FNG Park).psx" size 8246 crc 0x705d69e6 sha1 5b258eb34c2d8b3053406d5609422e29895154d3 )
+	rom ( name "Tony Hawks Pro Skater 2 (SLUS-01066) - Custom Park (FNG Tunnel).psx" size 8246 crc 0x7e7e8100 sha1 c56fde72652654e2dd510b4a98c5ca2fd5c08012 )
+	rom ( name "Tony Hawks Pro Skater 2 (SLUS-01066) - Custom Park (Gameshark Park).psx" size 8246 crc 0x7e822d5d sha1 e04548bc59a4ab8c2eb1ea9bd1a12561995dc6b4 )
+	rom ( name "Tony Hawks Pro Skater 2 (SLUS-01066) - Custom Park (House Of FNG).psx" size 8246 crc 0x818c15bb sha1 87fdea68e1d9acf2d47becb1a0c3a459d5447ce5 )
+	rom ( name "Tony Hawks Pro Skater 2 (SLUS-01066) - Custom Park (Nips Grind Park).psx" size 8246 crc 0x0bfb2850 sha1 0976690653fa9e524298cfa69f9f718136eb6cc0 )
+	rom ( name "Tony Hawks Pro Skater 2 (SLUS-01066) - Custom Park (Poolside With FNG).psx" size 8246 crc 0xab25aff8 sha1 10b8445d8235414aba6967b594ae02b12a33bc0f )
+	rom ( name "Tony Hawks Pro Skater 2 (SLUS-01066) - Custom Park (Saviors House).psx" size 8246 crc 0x38d17078 sha1 df1b673eace048e7aa6d0e1635119116dca2a4a3 )
+)
+
+game (
+	name "Trap Gunner (SLUS-00679)"
+	description "Trap Gunner (SLUS-00679)"
+	rom ( name "Trap Gunner (SLUS-00679) (All Characters And Levels Unlocked).psx" size 8246 crc 0x1eda77a0 sha1 a7f7819a58e0d1390e42ad5fcdd7ca94ac7ab602 )
+)
+
+game (
+	name "Treasures Of The Deep (SLUS-00430)"
+	description "Treasures Of The Deep (SLUS-00430)"
+	rom ( name "Treasures Of The Deep (SLUS-00430) (All Missions Unlocked).psx" size 8246 crc 0x0f5c76c1 sha1 6e2313eaff07ea7261bd444f1090d45c667701fe )
+	rom ( name "Treasures Of The Deep (SLUS-00430) (Extra Money, All Weapons, All Missions, Unlimited Payload, And No Fines For Killing Endangered Species).psx" size 8246 crc 0xe12a28d0 sha1 87bf81b9262911c23c32a8ba23faa1acc849d531 )
+)
+
+game (
+	name "Triple Play 2000 (SLUS-00827)"
+	description "Triple Play 2000 (SLUS-00827)"
+	rom ( name "Triple Play 2000 (SLUS-00827) (Rosters Updated As Of 8-3-99).psx" size 8246 crc 0x5eb00633 sha1 30ac3eb47ba3ab06eeeef6985f230549f26ee084 )
+)
+
+game (
+	name "Triple Play 2000 Roster (SLUS-00827)"
+	description "Triple Play 2000 Roster (SLUS-00827)"
+	rom ( name "Triple Play 2000 Roster (SLUS-00827) (Rosters Status Updated To 3-28-99).psx" size 8246 crc 0x9b6ef522 sha1 b40deffa34e98451673f216df7a518c9f636ddbd )
+)
+
+game (
+	name "Twisted Metal 3 (SCUS-94249)"
+	description "Twisted Metal 3 (SCUS-94249)"
+	rom ( name "Twisted Metal 3 (SCUS-94249) (Everything Unlocked).psx" size 8246 crc 0x72f57f4a sha1 265b778b3820e8c93a7118595969d0a558f46ff2 )
+)
+
+game (
+	name "Twisted Metal 4 (SCUS-94560)"
+	description "Twisted Metal 4 (SCUS-94560)"
+	rom ( name "Twisted Metal 4 (SCUS-94560) (Everything Unlocked).psx" size 8246 crc 0x44d8afaf sha1 625828c126b1fdf41b0d79da85adfc681a3481dd )
+)
+
+game (
+	name "Ultraman Fighting Evolution (SLPS-01248)"
+	description "Ultraman Fighting Evolution (SLPS-01248)"
+	rom ( name "Ultraman Fighting Evolution (SLPS-01248) (All Characters In Gallery Unlocked).psx" size 8246 crc 0x1051b4a5 sha1 30a187fbfd5923a7a2f198de12c8bd654b1e9d64 )
+)
+
+game (
+	name "Um Jammer Lammy (SCUS-94448)"
+	description "Um Jammer Lammy (SCUS-94448)"
+	rom ( name "Um Jammer Lammy (SCUS-94448) (All Levels Open And Completed, Sound Player Option Available).psx" size 8246 crc 0x685ee90e sha1 552c2077799ead0285cebcea1638534c4e9216f1 )
+)
+
+game (
+	name "Unholy War (SLUS-00676)"
+	description "Unholy War (SLUS-00676)"
+	rom ( name "Unholy War (SLUS-00676) (Bonus Characters And Levels Unlocked).psx" size 8246 crc 0xbc88de7f sha1 d0632befa8429ebc593353cfdf53cafc4c35d101 )
+	rom ( name "Unholy War (SLUS-00676) (Extra Characters And Levels).psx" size 8246 crc 0xdead584d sha1 5a969e1d396e2d5b514d376ceb53979fba1d654b )
+)
+
+game (
+	name "Vandal Hearts (SLUS-00447)"
+	description "Vandal Hearts (SLUS-00447)"
+	rom ( name "Vandal Hearts (SLUS-00447) (Start Near End Of Game With All Difficult Tasks Completed).psx" size 16438 crc 0x2a3111ce sha1 d72e855a749729289248a1193754f7e9c82b1e20 )
+)
+
+game (
+	name "Vigilate 8 (SLUS-00510)"
+	description "Vigilate 8 (SLUS-00510)"
+	rom ( name "Vigilate 8 (SLUS-00510) (All Characters And Levels Unlocked) [a1].psx" size 8246 crc 0xd5f18f6b sha1 784b6a1c1780c77e718d3d6a91bb159ac7dee335 )
+	rom ( name "Vigilate 8 (SLUS-00510) (All Characters And Levels Unlocked).psx" size 8246 crc 0x78a2b04e sha1 6bac6fa9c0830e70ff5f1bb0f519bc6d181e352a )
+)
+
+game (
+	name "Vs (SLUS-00513)"
+	description "Vs (SLUS-00513)"
+	rom ( name "Vs (SLUS-00513) (All Bosses Unlocked).psx" size 8246 crc 0xddb76b0a sha1 45661e979b2ce2cd204fc981126b65fa88c89d9b )
+	rom ( name "Vs (SLUS-00513) (Bonus Characters).psx" size 8246 crc 0xd2222857 sha1 d4dc04f9f7ef32fbac2319690c179ef726fd719c )
+)
+
+game (
+	name "WCW Nitro (SLUS-00397)"
+	description "WCW Nitro (SLUS-00397)"
+	rom ( name "WCW Nitro (SLUS-00397) (All Characters And Rings Unlocked).psx" size 8246 crc 0x2d88eba8 sha1 467ca6814637aa1751ab4ecedb34c19412f65b19 )
+	rom ( name "WCW Nitro (SLUS-00397) (All Characters Unlocked).psx" size 8246 crc 0xae1003c0 sha1 08773f884377b3b35692417da5f2b7ae54d8e6b7 )
+)
+
+game (
+	name "WCW Vs The World (SLUS-00455)"
+	description "WCW Vs The World (SLUS-00455)"
+	rom ( name "WCW Vs The World (SLUS-00455) (All Characters Unlocked In Exhibition Mode).psx" size 8246 crc 0x1aeb2129 sha1 438903a14763289ee34dd5e317c2109ca1622468 )
+	rom ( name "WCW Vs The World (SLUS-00455) (All Characters Unlocked).psx" size 8246 crc 0xa6ed6fc4 sha1 9f864fd9fbe88145a5472bff2ece153a875a8cfe )
+)
+
+game (
+	name "WCW-nWo Thunder (SLUS-00779)"
+	description "WCW-nWo Thunder (SLUS-00779)"
+	rom ( name "WCW-nWo Thunder (SLUS-00779) (All Hidden Wrestlers And Rings Unlocked) [a1].psx" size 8246 crc 0x772a7047 sha1 2676695108ea8a367ebb320078765cb429bdc132 )
+	rom ( name "WCW-nWo Thunder (SLUS-00779) (All Hidden Wrestlers And Rings Unlocked).psx" size 8246 crc 0xedb36ea3 sha1 f0c083726511da108a4c6eaa474b8b6078d4f3ee )
+)
+
+game (
+	name "Wild 9 (Hacked)"
+	description "Wild 9 (Hacked)"
+	rom ( name "Wild 9 (Hacked) (All Levels Unlocked).psx" size 8246 crc 0xdacb9e61 sha1 cde3cd1358a3b656761e7fd06b0cd3fd7168f014 )
+)
+
+game (
+	name "Wild 9 (SLUS-00425)"
+	description "Wild 9 (SLUS-00425)"
+	rom ( name "Wild 9 (SLUS-00425) (All Levels Unlocked).psx" size 8246 crc 0xfaa6fd93 sha1 89d9d2609ae69e49a1d1729e1440210100108e9b )
+)
+
+game (
+	name "Wild Arms (SCUS-94608)"
+	description "Wild Arms (SCUS-94608)"
+	rom ( name "Wild Arms (SCUS-94608) (Everything Done, All Characters At Level 50).psx" size 8246 crc 0x41077122 sha1 b7828b36c5cf0ae80c1ecdbc62403ee0301e9a26 )
+	rom ( name "Wild Arms (SCUS-94608) (Start At End Of Game).psx" size 8246 crc 0xf65ac2c6 sha1 557d9398f3b66690637b926df85a26dd5d075064 )
+	rom ( name "Wild Arms (SCUS-94608) (Start At End Of Game, All Characters At Level 50).psx" size 8246 crc 0x7df69fe6 sha1 1a833bd622176d60fc5c6198bd9d8f92e5422a15 )
+)
+
+game (
+	name "Wipeout (SCUS-94301)"
+	description "Wipeout (SCUS-94301)"
+	rom ( name "Wipeout (SCUS-94301) (Rapier Class And Bonus Track Unlocked).psx" size 8246 crc 0x9796715d sha1 2f47c21ea4772ed21d93b83b0c7b8cc07a1c68d8 )
+)
+
+game (
+	name "Wipeout XL (SCUS-94351)"
+	description "Wipeout XL (SCUS-94351)"
+	rom ( name "Wipeout XL (SCUS-94351) (All Tracks Unlocked).psx" size 8246 crc 0x84fb0815 sha1 eebfdf4c768a1707956b519fa8c10ab4cefc91fb )
+	rom ( name "Wipeout XL (SCUS-94351) (Fastest Class And Ships).psx" size 8246 crc 0xb9f9291c sha1 dde2a7b352627781fd94ab868f8a53df791909c4 )
+	rom ( name "Wipeout XL (SCUS-94351) (First Place Cups On All Tracks At All Challenge Levels; Access Fastest Class And Ships).psx" size 8246 crc 0xbcf288cf sha1 62f3048c5dca4e2dac4c885f8f5e6558119753b9 )
+)
+
+game (
+	name "World Cup '98 (SLUS-00644)"
+	description "World Cup '98 (SLUS-00644)"
+	rom ( name "World Cup '98 (SLUS-00644) (Classic Mode Unlocked).psx" size 16438 crc 0x767c4ff4 sha1 1beec10df82b3dce084c9ec2df69302ca8f37819 )
+	rom ( name "World Cup '98 (SLUS-00644) (Extra Modes And Bonus Teams Unlocked).psx" size 16438 crc 0xf505afc9 sha1 f02bea810e7fa9a175ba7559e5ae619001dc2b55 )
+)
+
+game (
+	name "Wu-Tang - Shaolin Style (SLUS-00929)"
+	description "Wu-Tang - Shaolin Style (SLUS-00929)"
+	rom ( name "Wu-Tang - Shaolin Style (SLUS-00929) (All Characters, Modes And Stages Unlocked. All Characters Have 36 Chambers).psx" size 8246 crc 0xf2f5c6f5 sha1 b7b49ff395e3d8d326bb90dc40f920d2172de576 )
+)
+
+game (
+	name "WWF Attitude (SLUS-00831)"
+	description "WWF Attitude (SLUS-00831)"
+	rom ( name "WWF Attitude (SLUS-00831) (All Cheats Unlocked).psx" size 8246 crc 0xd11962ee sha1 6ee47ef7417dc8128b199b1f2cda63ced0714ae3 )
+)
+
+game (
+	name "WWF Warzone (SLUS-00495)"
+	description "WWF Warzone (SLUS-00495)"
+	rom ( name "WWF Warzone (SLUS-00495) (30 Wrestlers).psx" size 16438 crc 0x856c832a sha1 bafc600b8981ea1daf61a3f43993aba9356baac9 )
+	rom ( name "WWF Warzone (SLUS-00495) (All Cheat Menu Features And Modes Unlocked).psx" size 16438 crc 0x50ff8491 sha1 37279ec01f4b7d88def9b79da01d1110ac4cf6e9 )
+	rom ( name "WWF Warzone (SLUS-00495) (All Cheat Menu Features, Modes And Hidden Characters Unlocked).psx" size 16438 crc 0x86588640 sha1 fc150a303133cd3a04a9a2c3753d384da798c674 )
+	rom ( name "WWF Warzone (SLUS-00495) (Entire WWF Roster).psx" size 16438 crc 0xf6307083 sha1 0b49630319bc71a3f71b8fd16dd891370b88c1ec )
+	rom ( name "WWF Warzone (SLUS-00495) (Have All Secrets).psx" size 16438 crc 0x49d47401 sha1 e5ebc86eea81c83d2bb4dd9c8f1798c405ac1fa8 )
+)
+
+game (
+	name "X-Com - Ufo Defense (SLUS-00141)"
+	description "X-Com - Ufo Defense (SLUS-00141)"
+	rom ( name "X-Com - Ufo Defense (SLUS-00141) (Extra Money).psx" size 8246 crc 0x0cbad105 sha1 f2799c9e6f3f9112e853158960b17acaa9b42ff2 )
+)
+
+game (
+	name "Xenogears (SLUS-00664)"
+	description "Xenogears (SLUS-00664)"
+	rom ( name "Xenogears (SLUS-00664) (Start At Final Boss).psx" size 8246 crc 0xc1f27838 sha1 33b3a834b2df6f86794bb289ceefc1177984c3f2 )
+)
+
+game (
+	name "Xmen Vs Streetfighter (SLUS-00627)"
+	description "Xmen Vs Streetfighter (SLUS-00627)"
+	rom ( name "Xmen Vs Streetfighter (SLUS-00627) (Apocalypse Unlocked).psx" size 8246 crc 0xcbf302b0 sha1 99f86b9dd9bf74463c07705bef87cd0d19ede60c )
+)
+
+game (
+	name "Z Gundam (SLPS-01142)"
+	description "Z Gundam (SLPS-01142)"
+	rom ( name "Z Gundam (SLPS-01142) (All Characters In Versus Mode Unlocked).psx" size 8246 crc 0x1f391855 sha1 0d2a74bd44e930a04bfbfc8cbccf405b8e2cbce0 )
+	rom ( name "Z Gundam (SLPS-01142) (Both Discs Completed).psx" size 8246 crc 0x48f7c26b sha1 7f2f889c5b538037b40300f2fedfa445b69b5675 )
+)
+
+game (
+	name "Zero Divide (SLUS-00183)"
+	description "Zero Divide (SLUS-00183)"
+	rom ( name "Zero Divide (SLUS-00183) (All Characters Unlocked).psx" size 8246 crc 0xda6f35d2 sha1 6c4bdcb6d7959a37448df78552fbfc5c0e79017b )
+)
+
+game (
+	name "Zero Divide 2 (SLPS-00891)"
+	description "Zero Divide 2 (SLPS-00891)"
+	rom ( name "Zero Divide 2 (SLPS-00891) (Neko, Modoki, Eve, And Nox Unlocked; Two Extra Stages For Vs. Mode Unlocked).psx" size 8246 crc 0x34185fd0 sha1 8e10b33b056342f826f9c780379a19a97ea8548d )
+)
+

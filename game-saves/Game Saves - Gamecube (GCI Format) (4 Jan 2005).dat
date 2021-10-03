@@ -1,0 +1,69 @@
+clrmamepro (
+	name "Game Saves - Gamecube (GCI Format)"
+	description "Game Saves - Gamecube (GCI Format)"
+	category "Standard DatFile"
+	version 20050104
+	author sairuk
+	comment "Gamecube Game Saves In GCI Format"
+)
+
+game (
+	name "Animal Crossing (DOL-GAFE) (NTSC-US)"
+	description "Animal Crossing (DOL-GAFE) (NTSC-US)"
+	rom ( name "Animal Crossing (DOL-GAFE) (NTSC-US) (All 19 Nes Games).gci" size 467008 crc 0x794b9098 sha1 594df1a5ed3062b7f7a9f696cedee94529631169 )
+)
+
+game (
+	name "Ikaruga (DOL-GIKE) (NTSC-US)"
+	description "Ikaruga (DOL-GIKE) (NTSC-US)"
+	rom ( name "Ikaruga (DOL-GIKE) (NTSC-US) (Game Beaten, All Extras And Levels Unlocked).gci" size 32832 crc 0xc344080e sha1 a06953decf17817ff992f391f8a2395d33c3a121 )
+)
+
+game (
+	name "Mario Kart Double Dash!! (DOL-GM4P)"
+	description "Mario Kart Double Dash!! (DOL-GM4P)"
+	rom ( name "Mario Kart Double Dash!! (DOL-GM4P) (PAL) (100% Complete, Everything Unlocked).gci" size 24640 crc 0x2b41bbf4 sha1 e5e1dbdf2e07665522a3ad9500f53149539716d6 )
+)
+
+game (
+	name "Naruto (DOL-GNRJ) (NTSC-JAP)"
+	description "Naruto (DOL-GNRJ) (NTSC-JAP)"
+	rom ( name "Naruto (DOL-GNRJ) (NTSC-JAP) (Everything Unlocked).gci" size 16448 crc 0xe672d245 sha1 184653c1eba5cbff338e8c6091355fa23fe58f5c )
+)
+
+game (
+	name "Naruto - Gekitou Ninja Taisen! 2 (DOL-GNUJ) (NTSC JAP)"
+	description "Naruto - Gekitou Ninja Taisen! 2 (DOL-GNUJ) (NTSC JAP)"
+	rom ( name "Naruto - Gekitou Ninja Taisen! 2 (DOL-GNUJ) (NTSC JAP) (Everything Unlocked).gci" size 16448 crc 0x61e4a47f sha1 45b0f64c060fc66415b5d351cffa1869bfa6c7a6 )
+)
+
+game (
+	name "Sonic Mega Collection (DOL-GSOE) (NTSC-US)"
+	description "Sonic Mega Collection (DOL-GSOE) (NTSC-US)"
+	rom ( name "Sonic Mega Collection (DOL-GSOE) (NTSC-US) (All Games Unlocked).gci" size 16448 crc 0xa07cbe9c sha1 b025cc174804bb7d2313511a22120237b12c634a )
+)
+
+game (
+	name "Star Fox Adventures (DOL-GSAP) (PAL)"
+	description "Star Fox Adventures (DOL-GSAP) (PAL)"
+	rom ( name "Star Fox Adventures (DOL-GSAP) (PAL) (99% Complete).gci" size 24640 crc 0x3adbbf2d sha1 37d45c6a5ce946d8b26ecc94c1deb8c6269a858f )
+)
+
+game (
+	name "Super Smash Bros. Melee (DOL-GALE) (NTSC-US)"
+	description "Super Smash Bros. Melee (DOL-GALE) (NTSC-US)"
+	rom ( name "Super Smash Bros. Melee (DOL-GALE) (NTSC-US) (100% Complete).gci" size 90176 crc 0xa02726b9 sha1 756a1065be5433642ad274cafb725a9257198f0d )
+)
+
+game (
+	name "Wario World (DOL-GWWE) (NTSC-US)"
+	description "Wario World (DOL-GWWE) (NTSC-US)"
+	rom ( name "Wario World (DOL-GWWE) (NTSC-US) (100% Complete, All GB Games And Trophies).gci" size 81984 crc 0x8683dc1d sha1 68c195d9d7b8d4bc29592227d12ac5ef24ce608d )
+)
+
+game (
+	name "Yu-Gi-Oh! Falsebound Kingdom (DOL-GYFE) (NTSC-US)"
+	description "Yu-Gi-Oh! Falsebound Kingdom (DOL-GYFE) (NTSC-US)"
+	rom ( name "Yu-Gi-Oh! Falsebound Kingdom (DOL-GYFE) (NTSC-US) (Yugi With All Cards).gci" size 24640 crc 0x2b4528e8 sha1 c2463ab4d1860a5782888e9b321da3c884f20bda )
+)
+
